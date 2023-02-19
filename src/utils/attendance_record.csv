@@ -1,0 +1,2176 @@
+Employee #,Last Name,First Name,Date,Time-in,Time-out
+10001,Crisostomo,Jose,1-9-2022,8:00,17:00
+10002,Mata,Christian,1-9-2022,8:00,17:00
+10003,San Jose,Brad ,1-9-2022,8:00,17:00
+10004,Salcedo,Anthony,1-9-2022,8:00,17:00
+10005,Romualdez,Alice,1-9-2022,8:00,17:00
+10006,Atienza,Rosie ,1-9-2022,8:00,17:00
+10007,Farala,Martha,1-9-2022,8:27,17:00
+10008,Martinez,Leila,1-9-2022,8:01,17:00
+10009,San Jose,Allison ,1-9-2022,8:05,17:00
+10010,Rosario,Cydney ,1-9-2022,8:00,17:00
+10011,Lopez,Josie ,1-9-2022,8:00,17:00
+10012,De Leon,Selena ,1-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,1-9-2022,8:00,17:00
+10014,Bautista,Mark ,1-9-2022,8:00,17:00
+10015,Lazaro,Darlene ,1-9-2022,8:00,17:00
+10016,Delos Santos,Kolby ,1-9-2022,8:28,17:00
+10017,Santos,Vella ,1-9-2022,8:00,17:00
+10018,Del Rosario,Tomas,1-9-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,1-9-2022,8:00,17:00
+10020,Gutierrez,Percival ,1-9-2022,8:00,17:00
+10021,Manalaysay,Garfield ,1-9-2022,8:11,17:00
+10022,Villegas,Lizeth ,1-9-2022,8:00,17:00
+10023,Ramos,Carol ,1-9-2022,8:00,17:00
+10024,Maceda,Emelia ,1-9-2022,8:21,17:00
+10025,Aguilar,Delia ,1-9-2022,8:00,17:00
+10001,Crisostomo,Jose,2-9-2022,8:00,17:00
+10002,Mata,Christian,2-9-2022,8:00,17:00
+10003,San Jose,Brad ,2-9-2022,8:00,17:00
+10004,Salcedo,Anthony,2-9-2022,8:00,17:00
+10005,Romualdez,Alice,2-9-2022,8:00,17:00
+10006,Atienza,Rosie ,2-9-2022,8:00,17:00
+10007,Farala,Martha,2-9-2022,8:00,17:00
+10008,Martinez,Leila,2-9-2022,8:00,17:00
+10009,San Jose,Allison ,2-9-2022,8:00,17:00
+10010,Rosario,Cydney ,2-9-2022,8:00,17:00
+10011,Lopez,Josie ,2-9-2022,8:00,17:00
+10012,De Leon,Selena ,2-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,2-9-2022,8:00,17:00
+10014,Bautista,Mark ,2-9-2022,8:00,17:00
+10015,Lazaro,Darlene ,2-9-2022,8:00,17:00
+10016,Delos Santos,Kolby ,2-9-2022,8:00,17:00
+10017,Santos,Vella ,2-9-2022,8:00,17:00
+10018,Del Rosario,Tomas,2-9-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,2-9-2022,8:00,17:00
+10020,Gutierrez,Percival ,2-9-2022,8:00,17:00
+10021,Manalaysay,Garfield ,2-9-2022,8:00,17:00
+10022,Villegas,Lizeth ,2-9-2022,8:00,17:00
+10023,Ramos,Carol ,2-9-2022,8:00,17:00
+10024,Maceda,Emelia ,2-9-2022,8:00,17:00
+10025,Aguilar,Delia ,2-9-2022,8:00,17:00
+10001,Crisostomo,Jose,5-9-2022,8:00,17:00
+10002,Mata,Christian,5-9-2022,8:00,17:00
+10003,San Jose,Brad ,5-9-2022,8:00,17:00
+10004,Salcedo,Anthony,5-9-2022,8:00,17:00
+10005,Romualdez,Alice,5-9-2022,8:15,17:00
+10006,Atienza,Rosie ,5-9-2022,8:00,17:00
+10007,Farala,Martha,5-9-2022,8:00,17:00
+10008,Martinez,Leila,5-9-2022,8:00,17:00
+10009,San Jose,Allison ,5-9-2022,8:00,17:00
+10010,Rosario,Cydney ,5-9-2022,8:00,17:00
+10011,Lopez,Josie ,5-9-2022,10:30,17:00
+10012,De Leon,Selena ,5-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,5-9-2022,8:00,17:00
+10014,Bautista,Mark ,5-9-2022,8:00,17:00
+10015,Lazaro,Darlene ,5-9-2022,8:00,17:00
+10016,Delos Santos,Kolby ,5-9-2022,8:00,17:00
+10017,Santos,Vella ,5-9-2022,8:00,17:00
+10018,Del Rosario,Tomas,5-9-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,5-9-2022,8:00,17:00
+10020,Gutierrez,Percival ,5-9-2022,8:00,17:00
+10021,Manalaysay,Garfield ,5-9-2022,13:00,17:00
+10022,Villegas,Lizeth ,5-9-2022,8:00,17:00
+10023,Ramos,Carol ,5-9-2022,8:00,17:00
+10024,Maceda,Emelia ,5-9-2022,8:00,17:00
+10025,Aguilar,Delia ,5-9-2022,8:00,17:00
+10001,Crisostomo,Jose,6-9-2022,8:00,17:00
+10002,Mata,Christian,6-9-2022,8:00,17:00
+10003,San Jose,Brad ,6-9-2022,11:30,17:00
+10004,Salcedo,Anthony,6-9-2022,8:00,17:00
+10005,Romualdez,Alice,6-9-2022,8:00,17:00
+10006,Atienza,Rosie ,6-9-2022,8:00,17:00
+10007,Farala,Martha,6-9-2022,8:00,17:00
+10008,Martinez,Leila,6-9-2022,8:10,17:00
+10009,San Jose,Allison ,6-9-2022,0:00,0:00
+10010,Rosario,Cydney ,6-9-2022,8:00,17:00
+10011,Lopez,Josie ,6-9-2022,8:00,17:00
+10012,De Leon,Selena ,6-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,6-9-2022,8:00,17:00
+10014,Bautista,Mark ,6-9-2022,8:00,17:00
+10015,Lazaro,Darlene ,6-9-2022,8:00,17:00
+10016,Delos Santos,Kolby ,6-9-2022,8:00,17:00
+10017,Santos,Vella ,6-9-2022,8:05,17:00
+10018,Del Rosario,Tomas,6-9-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,6-9-2022,8:00,17:00
+10020,Gutierrez,Percival ,6-9-2022,8:00,17:00
+10021,Manalaysay,Garfield ,6-9-2022,8:00,17:00
+10022,Villegas,Lizeth ,6-9-2022,8:00,17:00
+10023,Ramos,Carol ,6-9-2022,9:00,17:00
+10024,Maceda,Emelia ,6-9-2022,8:00,17:00
+10025,Aguilar,Delia ,6-9-2022,8:00,17:00
+10001,Crisostomo,Jose,7-9-2022,8:00,17:00
+10002,Mata,Christian,7-9-2022,8:00,17:00
+10003,San Jose,Brad ,7-9-2022,8:00,17:00
+10004,Salcedo,Anthony,7-9-2022,8:00,17:00
+10005,Romualdez,Alice,7-9-2022,8:00,17:00
+10006,Atienza,Rosie ,7-9-2022,8:00,17:00
+10007,Farala,Martha,7-9-2022,8:00,17:00
+10008,Martinez,Leila,7-9-2022,8:00,17:00
+10009,San Jose,Allison ,7-9-2022,0:00,0:00
+10010,Rosario,Cydney ,7-9-2022,8:00,17:00
+10011,Lopez,Josie ,7-9-2022,8:00,17:00
+10012,De Leon,Selena ,7-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,7-9-2022,8:00,17:00
+10014,Bautista,Mark ,7-9-2022,8:00,17:00
+10015,Lazaro,Darlene ,7-9-2022,8:00,17:00
+10016,Delos Santos,Kolby ,7-9-2022,8:00,17:00
+10017,Santos,Vella ,7-9-2022,8:00,17:00
+10018,Del Rosario,Tomas,7-9-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,7-9-2022,8:00,17:00
+10020,Gutierrez,Percival ,7-9-2022,8:00,17:00
+10021,Manalaysay,Garfield ,7-9-2022,8:00,17:00
+10022,Villegas,Lizeth ,7-9-2022,8:00,17:00
+10023,Ramos,Carol ,7-9-2022,8:00,17:00
+10024,Maceda,Emelia ,7-9-2022,8:00,17:00
+10025,Aguilar,Delia ,7-9-2022,8:00,17:00
+10001,Crisostomo,Jose,8-9-2022,8:00,17:00
+10002,Mata,Christian,8-9-2022,8:00,17:00
+10003,San Jose,Brad ,8-9-2022,8:00,17:00
+10004,Salcedo,Anthony,8-9-2022,8:00,17:00
+10005,Romualdez,Alice,8-9-2022,8:00,17:00
+10006,Atienza,Rosie ,8-9-2022,8:00,17:00
+10007,Farala,Martha,8-9-2022,8:00,17:00
+10008,Martinez,Leila,8-9-2022,8:00,17:00
+10009,San Jose,Allison ,8-9-2022,0:00,0:00
+10010,Rosario,Cydney ,8-9-2022,8:00,17:00
+10011,Lopez,Josie ,8-9-2022,8:00,17:00
+10012,De Leon,Selena ,8-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,8-9-2022,10:00,17:00
+10014,Bautista,Mark ,8-9-2022,10:00,17:00
+10015,Lazaro,Darlene ,8-9-2022,10:00,17:00
+10016,Delos Santos,Kolby ,8-9-2022,10:00,17:00
+10017,Santos,Vella ,8-9-2022,10:00,17:00
+10018,Del Rosario,Tomas,8-9-2022,10:00,17:00
+10019,Tolentino,Jacklyn ,8-9-2022,10:00,17:00
+10020,Gutierrez,Percival ,8-9-2022,10:00,17:00
+10021,Manalaysay,Garfield ,8-9-2022,10:00,17:00
+10022,Villegas,Lizeth ,8-9-2022,10:00,17:00
+10023,Ramos,Carol ,8-9-2022,10:00,17:00
+10024,Maceda,Emelia ,8-9-2022,10:00,17:00
+10025,Aguilar,Delia ,8-9-2022,10:00,17:00
+10001,Crisostomo,Jose,9-9-2022,8:00,17:00
+10002,Mata,Christian,9-9-2022,8:00,17:00
+10003,San Jose,Brad ,9-9-2022,8:00,17:00
+10004,Salcedo,Anthony,9-9-2022,8:00,17:00
+10005,Romualdez,Alice,9-9-2022,8:00,17:00
+10006,Atienza,Rosie ,9-9-2022,8:00,17:00
+10007,Farala,Martha,9-9-2022,8:00,17:00
+10008,Martinez,Leila,9-9-2022,8:00,17:00
+10009,San Jose,Allison ,9-9-2022,0:00,0:00
+10010,Rosario,Cydney ,9-9-2022,8:00,17:00
+10011,Lopez,Josie ,9-9-2022,8:00,17:00
+10012,De Leon,Selena ,9-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,9-9-2022,8:00,17:00
+10014,Bautista,Mark ,9-9-2022,8:00,17:00
+10015,Lazaro,Darlene ,9-9-2022,8:00,17:00
+10016,Delos Santos,Kolby ,9-9-2022,8:00,17:00
+10017,Santos,Vella ,9-9-2022,8:00,17:00
+10018,Del Rosario,Tomas,9-9-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,9-9-2022,8:00,17:00
+10020,Gutierrez,Percival ,9-9-2022,8:00,17:00
+10021,Manalaysay,Garfield ,9-9-2022,8:00,17:00
+10022,Villegas,Lizeth ,9-9-2022,8:00,17:00
+10023,Ramos,Carol ,9-9-2022,8:00,17:00
+10024,Maceda,Emelia ,9-9-2022,8:00,17:00
+10025,Aguilar,Delia ,9-9-2022,8:00,17:00
+10001,Crisostomo,Jose,12-9-2022,8:00,17:00
+10002,Mata,Christian,12-9-2022,8:00,17:00
+10003,San Jose,Brad ,12-9-2022,8:00,17:00
+10004,Salcedo,Anthony,12-9-2022,8:00,17:00
+10005,Romualdez,Alice,12-9-2022,8:00,17:00
+10006,Atienza,Rosie ,12-9-2022,8:00,17:00
+10007,Farala,Martha,12-9-2022,8:27,17:00
+10008,Martinez,Leila,12-9-2022,8:01,17:00
+10009,San Jose,Allison ,12-9-2022,0:00,0:00
+10010,Rosario,Cydney ,12-9-2022,8:00,17:00
+10011,Lopez,Josie ,12-9-2022,8:00,17:00
+10012,De Leon,Selena ,12-9-2022,8:00,17:00
+10013,Romualdez,Fredrick ,12-9-2022,8:00,17:00
+10014,Bautista,Mark ,12-9-2022,8:00,17:00
+10015,Lazaro,Darlene ,12-9-2022,8:00,17:00
+10016,Delos Santos,Kolby ,12-9-2022,8:28,17:00
+10017,Santos,Vella ,12-9-2022,8:00,17:00
+10018,Del Rosario,Tomas,12-9-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,12-9-2022,8:00,17:00
+10020,Gutierrez,Percival ,12-9-2022,8:00,17:00
+10021,Manalaysay,Garfield ,12-9-2022,8:11,17:00
+10022,Villegas,Lizeth ,12-9-2022,8:00,17:00
+10023,Ramos,Carol ,12-9-2022,8:00,17:00
+10024,Maceda,Emelia ,12-9-2022,8:21,17:00
+10025,Aguilar,Delia ,12-9-2022,8:00,17:00
+10001,Crisostomo,Jose,13-9-22,8:00,17:00
+10002,Mata,Christian,13-9-22,8:00,17:00
+10003,San Jose,Brad ,13-9-22,8:00,17:00
+10004,Salcedo,Anthony,13-9-22,8:00,17:00
+10005,Romualdez,Alice,13-9-22,8:00,17:00
+10006,Atienza,Rosie ,13-9-22,8:00,17:00
+10007,Farala,Martha,13-9-22,8:00,17:00
+10008,Martinez,Leila,13-9-22,8:00,17:00
+10009,San Jose,Allison ,13-9-22,8:00,17:00
+10010,Rosario,Cydney ,13-9-22,8:00,17:00
+10011,Lopez,Josie ,13-9-22,8:00,17:00
+10012,De Leon,Selena ,13-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,13-9-22,8:00,17:00
+10014,Bautista,Mark ,13-9-22,8:00,17:00
+10015,Lazaro,Darlene ,13-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,13-9-22,8:00,17:00
+10017,Santos,Vella ,13-9-22,0:00,0:00
+10018,Del Rosario,Tomas,13-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,13-9-22,8:00,17:00
+10020,Gutierrez,Percival ,13-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,13-9-22,8:00,17:00
+10022,Villegas,Lizeth ,13-9-22,8:00,17:00
+10023,Ramos,Carol ,13-9-22,8:00,17:00
+10024,Maceda,Emelia ,13-9-22,8:00,17:00
+10025,Aguilar,Delia ,13-9-22,8:00,17:00
+10001,Crisostomo,Jose,14-9-22,8:00,17:00
+10002,Mata,Christian,14-9-22,8:00,17:00
+10003,San Jose,Brad ,14-9-22,8:00,17:00
+10004,Salcedo,Anthony,14-9-22,8:00,17:00
+10005,Romualdez,Alice,14-9-22,8:15,17:00
+10006,Atienza,Rosie ,14-9-22,8:00,17:00
+10007,Farala,Martha,14-9-22,8:00,17:00
+10008,Martinez,Leila,14-9-22,8:00,17:00
+10009,San Jose,Allison ,14-9-22,8:00,17:00
+10010,Rosario,Cydney ,14-9-22,8:00,17:00
+10011,Lopez,Josie ,14-9-22,10:30,17:00
+10012,De Leon,Selena ,14-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,14-9-22,8:00,17:00
+10014,Bautista,Mark ,14-9-22,8:00,17:00
+10015,Lazaro,Darlene ,14-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,14-9-22,8:00,17:00
+10017,Santos,Vella ,14-9-22,8:00,17:00
+10018,Del Rosario,Tomas,14-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,14-9-22,8:00,17:00
+10020,Gutierrez,Percival ,14-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,14-9-22,13:00,17:00
+10022,Villegas,Lizeth ,14-9-22,8:00,17:00
+10023,Ramos,Carol ,14-9-22,8:00,17:00
+10024,Maceda,Emelia ,14-9-22,8:00,17:00
+10025,Aguilar,Delia ,14-9-22,8:00,17:00
+10001,Crisostomo,Jose,15-9-22,8:00,17:00
+10002,Mata,Christian,15-9-22,8:00,17:00
+10003,San Jose,Brad ,15-9-22,11:30,17:00
+10004,Salcedo,Anthony,15-9-22,8:00,17:00
+10005,Romualdez,Alice,15-9-22,8:00,17:00
+10006,Atienza,Rosie ,15-9-22,8:00,17:00
+10007,Farala,Martha,15-9-22,8:00,17:00
+10008,Martinez,Leila,15-9-22,8:10,17:00
+10009,San Jose,Allison ,15-9-22,8:00,17:00
+10010,Rosario,Cydney ,15-9-22,8:00,17:00
+10011,Lopez,Josie ,15-9-22,8:00,17:00
+10012,De Leon,Selena ,15-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,15-9-22,8:00,17:00
+10014,Bautista,Mark ,15-9-22,8:00,17:00
+10015,Lazaro,Darlene ,15-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,15-9-22,8:00,17:00
+10017,Santos,Vella ,15-9-22,8:05,17:00
+10018,Del Rosario,Tomas,15-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,15-9-22,8:00,17:00
+10020,Gutierrez,Percival ,15-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,15-9-22,8:00,17:00
+10022,Villegas,Lizeth ,15-9-22,8:00,17:00
+10023,Ramos,Carol ,15-9-22,9:00,17:00
+10024,Maceda,Emelia ,15-9-22,0:00,0:00
+10025,Aguilar,Delia ,15-9-22,8:00,17:00
+10001,Crisostomo,Jose,16-9-22,8:00,17:00
+10002,Mata,Christian,16-9-22,8:00,17:00
+10003,San Jose,Brad ,16-9-22,8:00,17:00
+10004,Salcedo,Anthony,16-9-22,8:00,17:00
+10005,Romualdez,Alice,16-9-22,8:00,17:00
+10006,Atienza,Rosie ,16-9-22,8:00,17:00
+10007,Farala,Martha,16-9-22,8:00,17:00
+10008,Martinez,Leila,16-9-22,8:00,17:00
+10009,San Jose,Allison ,16-9-22,8:00,17:00
+10010,Rosario,Cydney ,16-9-22,8:00,17:00
+10011,Lopez,Josie ,16-9-22,8:00,17:00
+10012,De Leon,Selena ,16-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,16-9-22,8:00,17:00
+10014,Bautista,Mark ,16-9-22,8:00,17:00
+10015,Lazaro,Darlene ,16-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,16-9-22,8:00,17:00
+10017,Santos,Vella ,16-9-22,8:00,17:00
+10018,Del Rosario,Tomas,16-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,16-9-22,8:00,17:00
+10020,Gutierrez,Percival ,16-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,16-9-22,8:00,17:00
+10022,Villegas,Lizeth ,16-9-22,8:00,17:00
+10023,Ramos,Carol ,16-9-22,8:00,17:00
+10024,Maceda,Emelia ,16-9-22,8:00,17:00
+10025,Aguilar,Delia ,16-9-22,8:00,17:00
+10001,Crisostomo,Jose,19-9-22,8:00,17:00
+10002,Mata,Christian,19-9-22,8:00,17:00
+10003,San Jose,Brad ,19-9-22,8:00,17:00
+10004,Salcedo,Anthony,19-9-22,8:00,17:00
+10005,Romualdez,Alice,19-9-22,8:00,17:00
+10006,Atienza,Rosie ,19-9-22,8:00,17:00
+10007,Farala,Martha,19-9-22,8:00,17:00
+10008,Martinez,Leila,19-9-22,8:00,17:00
+10009,San Jose,Allison ,19-9-22,8:00,17:00
+10010,Rosario,Cydney ,19-9-22,8:00,17:00
+10011,Lopez,Josie ,19-9-22,8:00,17:00
+10012,De Leon,Selena ,19-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,19-9-22,10:00,17:00
+10014,Bautista,Mark ,19-9-22,10:00,17:00
+10015,Lazaro,Darlene ,19-9-22,10:00,17:00
+10016,Delos Santos,Kolby ,19-9-22,10:00,17:00
+10017,Santos,Vella ,19-9-22,0:00,0:00
+10018,Del Rosario,Tomas,19-9-22,10:00,17:00
+10019,Tolentino,Jacklyn ,19-9-22,10:00,17:00
+10020,Gutierrez,Percival ,19-9-22,10:00,17:00
+10021,Manalaysay,Garfield ,19-9-22,10:00,17:00
+10022,Villegas,Lizeth ,19-9-22,10:00,17:00
+10023,Ramos,Carol ,19-9-22,10:00,17:00
+10024,Maceda,Emelia ,19-9-22,10:00,17:00
+10025,Aguilar,Delia ,19-9-22,10:00,17:00
+10001,Crisostomo,Jose,20-9-22,8:00,17:00
+10002,Mata,Christian,20-9-22,8:00,17:00
+10003,San Jose,Brad ,20-9-22,8:00,17:00
+10004,Salcedo,Anthony,20-9-22,8:00,17:00
+10005,Romualdez,Alice,20-9-22,8:00,17:00
+10006,Atienza,Rosie ,20-9-22,8:00,17:00
+10007,Farala,Martha,20-9-22,8:00,17:00
+10008,Martinez,Leila,20-9-22,8:00,17:00
+10009,San Jose,Allison ,20-9-22,8:00,17:00
+10010,Rosario,Cydney ,20-9-22,8:00,17:00
+10011,Lopez,Josie ,20-9-22,8:00,17:00
+10012,De Leon,Selena ,20-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,20-9-22,8:00,17:00
+10014,Bautista,Mark ,20-9-22,8:00,17:00
+10015,Lazaro,Darlene ,20-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,20-9-22,8:00,17:00
+10017,Santos,Vella ,20-9-22,8:00,17:00
+10018,Del Rosario,Tomas,20-9-22,0:00,0:00
+10019,Tolentino,Jacklyn ,20-9-22,8:00,17:00
+10020,Gutierrez,Percival ,20-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,20-9-22,8:00,17:00
+10022,Villegas,Lizeth ,20-9-22,8:00,17:00
+10023,Ramos,Carol ,20-9-22,8:00,17:00
+10024,Maceda,Emelia ,20-9-22,8:00,17:00
+10025,Aguilar,Delia ,20-9-22,8:00,17:00
+10001,Crisostomo,Jose,21-9-22,8:00,17:00
+10002,Mata,Christian,21-9-22,8:00,17:00
+10003,San Jose,Brad ,21-9-22,8:00,17:00
+10004,Salcedo,Anthony,21-9-22,8:00,17:00
+10005,Romualdez,Alice,21-9-22,8:00,17:00
+10006,Atienza,Rosie ,21-9-22,8:00,17:00
+10007,Farala,Martha,21-9-22,8:27,17:00
+10008,Martinez,Leila,21-9-22,8:01,17:00
+10009,San Jose,Allison ,21-9-22,8:05,17:00
+10010,Rosario,Cydney ,21-9-22,8:00,17:00
+10011,Lopez,Josie ,21-9-22,8:00,17:00
+10012,De Leon,Selena ,21-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,21-9-22,8:00,17:00
+10014,Bautista,Mark ,21-9-22,8:00,17:00
+10015,Lazaro,Darlene ,21-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,21-9-22,8:28,17:00
+10017,Santos,Vella ,21-9-22,8:00,17:00
+10018,Del Rosario,Tomas,21-9-22,0:00,0:00
+10019,Tolentino,Jacklyn ,21-9-22,8:00,17:00
+10020,Gutierrez,Percival ,21-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,21-9-22,8:11,17:00
+10022,Villegas,Lizeth ,21-9-22,8:00,17:00
+10023,Ramos,Carol ,21-9-22,8:00,17:00
+10024,Maceda,Emelia ,21-9-22,8:21,17:00
+10025,Aguilar,Delia ,21-9-22,8:00,17:00
+10001,Crisostomo,Jose,22-9-22,8:00,17:00
+10002,Mata,Christian,22-9-22,8:00,17:00
+10003,San Jose,Brad ,22-9-22,8:00,17:00
+10004,Salcedo,Anthony,22-9-22,8:00,17:00
+10005,Romualdez,Alice,22-9-22,8:00,17:00
+10006,Atienza,Rosie ,22-9-22,8:00,17:00
+10007,Farala,Martha,22-9-22,8:00,17:00
+10008,Martinez,Leila,22-9-22,8:00,17:00
+10009,San Jose,Allison ,22-9-22,8:00,17:00
+10010,Rosario,Cydney ,22-9-22,8:00,17:00
+10011,Lopez,Josie ,22-9-22,8:00,17:00
+10012,De Leon,Selena ,22-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,22-9-22,8:00,17:00
+10014,Bautista,Mark ,22-9-22,8:00,17:00
+10015,Lazaro,Darlene ,22-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,22-9-22,8:00,17:00
+10017,Santos,Vella ,22-9-22,8:00,17:00
+10018,Del Rosario,Tomas,22-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,22-9-22,8:00,17:00
+10020,Gutierrez,Percival ,22-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,22-9-22,8:00,17:00
+10022,Villegas,Lizeth ,22-9-22,8:00,17:00
+10023,Ramos,Carol ,22-9-22,8:00,17:00
+10024,Maceda,Emelia ,22-9-22,8:00,17:00
+10025,Aguilar,Delia ,22-9-22,8:00,17:00
+10001,Crisostomo,Jose,23-9-22,8:00,17:00
+10002,Mata,Christian,23-9-22,8:00,17:00
+10003,San Jose,Brad ,23-9-22,8:00,17:00
+10004,Salcedo,Anthony,23-9-22,8:00,17:00
+10005,Romualdez,Alice,23-9-22,8:15,17:00
+10006,Atienza,Rosie ,23-9-22,8:00,17:00
+10007,Farala,Martha,23-9-22,8:00,17:00
+10008,Martinez,Leila,23-9-22,8:00,17:00
+10009,San Jose,Allison ,23-9-22,8:00,17:00
+10010,Rosario,Cydney ,23-9-22,8:00,17:00
+10011,Lopez,Josie ,23-9-22,10:30,17:00
+10012,De Leon,Selena ,23-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,23-9-22,8:00,17:00
+10014,Bautista,Mark ,23-9-22,8:00,17:00
+10015,Lazaro,Darlene ,23-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,23-9-22,8:00,17:00
+10017,Santos,Vella ,23-9-22,8:00,17:00
+10018,Del Rosario,Tomas,23-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,23-9-22,8:00,17:00
+10020,Gutierrez,Percival ,23-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,23-9-22,13:00,17:00
+10022,Villegas,Lizeth ,23-9-22,8:00,17:00
+10023,Ramos,Carol ,23-9-22,8:00,17:00
+10024,Maceda,Emelia ,23-9-22,8:00,17:00
+10025,Aguilar,Delia ,23-9-22,8:00,17:00
+10001,Crisostomo,Jose,26-9-22,8:00,17:00
+10002,Mata,Christian,26-9-22,8:00,17:00
+10003,San Jose,Brad ,26-9-22,11:30,17:00
+10004,Salcedo,Anthony,26-9-22,8:00,17:00
+10005,Romualdez,Alice,26-9-22,8:00,17:00
+10006,Atienza,Rosie ,26-9-22,8:00,17:00
+10007,Farala,Martha,26-9-22,8:00,17:00
+10008,Martinez,Leila,26-9-22,8:10,17:00
+10009,San Jose,Allison ,26-9-22,8:00,17:00
+10010,Rosario,Cydney ,26-9-22,8:00,17:00
+10011,Lopez,Josie ,26-9-22,8:00,17:00
+10012,De Leon,Selena ,26-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,26-9-22,8:00,17:00
+10014,Bautista,Mark ,26-9-22,8:00,17:00
+10015,Lazaro,Darlene ,26-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,26-9-22,8:00,17:00
+10017,Santos,Vella ,26-9-22,8:05,17:00
+10018,Del Rosario,Tomas,26-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,26-9-22,8:00,17:00
+10020,Gutierrez,Percival ,26-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,26-9-22,8:00,17:00
+10022,Villegas,Lizeth ,26-9-22,8:00,17:00
+10023,Ramos,Carol ,26-9-22,9:00,17:00
+10024,Maceda,Emelia ,26-9-22,8:00,17:00
+10025,Aguilar,Delia ,26-9-22,8:00,17:00
+10001,Crisostomo,Jose,27-9-22,8:00,17:00
+10002,Mata,Christian,27-9-22,8:00,17:00
+10003,San Jose,Brad ,27-9-22,8:00,17:00
+10004,Salcedo,Anthony,27-9-22,8:00,17:00
+10005,Romualdez,Alice,27-9-22,8:00,17:00
+10006,Atienza,Rosie ,27-9-22,8:00,17:00
+10007,Farala,Martha,27-9-22,8:00,17:00
+10008,Martinez,Leila,27-9-22,8:00,17:00
+10009,San Jose,Allison ,27-9-22,8:00,17:00
+10010,Rosario,Cydney ,27-9-22,8:00,17:00
+10011,Lopez,Josie ,27-9-22,8:00,17:00
+10012,De Leon,Selena ,27-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,27-9-22,8:00,17:00
+10014,Bautista,Mark ,27-9-22,8:00,17:00
+10015,Lazaro,Darlene ,27-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,27-9-22,8:00,17:00
+10017,Santos,Vella ,27-9-22,0:00,0:00
+10018,Del Rosario,Tomas,27-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,27-9-22,8:00,17:00
+10020,Gutierrez,Percival ,27-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,27-9-22,8:00,17:00
+10022,Villegas,Lizeth ,27-9-22,8:00,17:00
+10023,Ramos,Carol ,27-9-22,8:00,17:00
+10024,Maceda,Emelia ,27-9-22,8:00,17:00
+10025,Aguilar,Delia ,27-9-22,8:00,17:00
+10001,Crisostomo,Jose,28-9-22,8:00,17:00
+10002,Mata,Christian,28-9-22,8:00,17:00
+10003,San Jose,Brad ,28-9-22,8:00,17:00
+10004,Salcedo,Anthony,28-9-22,8:00,17:00
+10005,Romualdez,Alice,28-9-22,8:00,17:00
+10006,Atienza,Rosie ,28-9-22,8:00,17:00
+10007,Farala,Martha,28-9-22,8:00,17:00
+10008,Martinez,Leila,28-9-22,8:00,17:00
+10009,San Jose,Allison ,28-9-22,8:00,17:00
+10010,Rosario,Cydney ,28-9-22,8:00,17:00
+10011,Lopez,Josie ,28-9-22,8:00,17:00
+10012,De Leon,Selena ,28-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,28-9-22,10:00,17:00
+10014,Bautista,Mark ,28-9-22,10:00,17:00
+10015,Lazaro,Darlene ,28-9-22,10:00,17:00
+10016,Delos Santos,Kolby ,28-9-22,10:00,17:00
+10017,Santos,Vella ,28-9-22,10:00,17:00
+10018,Del Rosario,Tomas,28-9-22,10:00,17:00
+10019,Tolentino,Jacklyn ,28-9-22,10:00,17:00
+10020,Gutierrez,Percival ,28-9-22,10:00,17:00
+10021,Manalaysay,Garfield ,28-9-22,10:00,17:00
+10022,Villegas,Lizeth ,28-9-22,10:00,17:00
+10023,Ramos,Carol ,28-9-22,10:00,17:00
+10024,Maceda,Emelia ,28-9-22,10:00,17:00
+10025,Aguilar,Delia ,28-9-22,10:00,17:00
+10001,Crisostomo,Jose,29-9-22,8:00,17:00
+10002,Mata,Christian,29-9-22,8:00,17:00
+10003,San Jose,Brad ,29-9-22,8:00,17:00
+10004,Salcedo,Anthony,29-9-22,8:00,17:00
+10005,Romualdez,Alice,29-9-22,8:00,17:00
+10006,Atienza,Rosie ,29-9-22,8:00,17:00
+10007,Farala,Martha,29-9-22,8:00,17:00
+10008,Martinez,Leila,29-9-22,8:00,17:00
+10009,San Jose,Allison ,29-9-22,8:00,17:00
+10010,Rosario,Cydney ,29-9-22,8:00,17:00
+10011,Lopez,Josie ,29-9-22,8:00,17:00
+10012,De Leon,Selena ,29-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,29-9-22,8:00,17:00
+10014,Bautista,Mark ,29-9-22,8:00,17:00
+10015,Lazaro,Darlene ,29-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,29-9-22,8:00,17:00
+10017,Santos,Vella ,29-9-22,8:00,17:00
+10018,Del Rosario,Tomas,29-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,29-9-22,8:00,17:00
+10020,Gutierrez,Percival ,29-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,29-9-22,8:00,17:00
+10022,Villegas,Lizeth ,29-9-22,8:00,17:00
+10023,Ramos,Carol ,29-9-22,8:00,17:00
+10024,Maceda,Emelia ,29-9-22,8:00,17:00
+10025,Aguilar,Delia ,29-9-22,8:00,17:00
+10001,Crisostomo,Jose,30-9-22,8:00,17:00
+10002,Mata,Christian,30-9-22,8:00,17:00
+10003,San Jose,Brad ,30-9-22,8:00,17:00
+10004,Salcedo,Anthony,30-9-22,8:00,17:00
+10005,Romualdez,Alice,30-9-22,8:00,17:00
+10006,Atienza,Rosie ,30-9-22,8:00,17:00
+10007,Farala,Martha,30-9-22,8:27,17:00
+10008,Martinez,Leila,30-9-22,8:01,17:00
+10009,San Jose,Allison ,30-9-22,8:05,17:00
+10010,Rosario,Cydney ,30-9-22,8:00,17:00
+10011,Lopez,Josie ,30-9-22,8:00,17:00
+10012,De Leon,Selena ,30-9-22,8:00,17:00
+10013,Romualdez,Fredrick ,30-9-22,8:00,17:00
+10014,Bautista,Mark ,30-9-22,8:00,17:00
+10015,Lazaro,Darlene ,30-9-22,8:00,17:00
+10016,Delos Santos,Kolby ,30-9-22,8:28,17:00
+10017,Santos,Vella ,30-9-22,8:00,17:00
+10018,Del Rosario,Tomas,30-9-22,8:00,17:00
+10019,Tolentino,Jacklyn ,30-9-22,8:00,17:00
+10020,Gutierrez,Percival ,30-9-22,8:00,17:00
+10021,Manalaysay,Garfield ,30-9-22,8:11,17:00
+10022,Villegas,Lizeth ,30-9-22,8:00,17:00
+10023,Ramos,Carol ,30-9-22,8:00,17:00
+10024,Maceda,Emelia ,30-9-22,8:21,17:00
+10025,Aguilar,Delia ,30-9-22,8:00,17:00
+10001,Crisostomo,Jose,3-10-2022,8:00,17:00
+10002,Mata,Christian,3-10-2022,8:00,17:00
+10003,San Jose,Brad ,3-10-2022,8:00,17:00
+10004,Salcedo,Anthony,3-10-2022,8:00,17:00
+10005,Romualdez,Alice,3-10-2022,8:00,17:00
+10006,Atienza,Rosie ,3-10-2022,8:00,17:00
+10007,Farala,Martha,3-10-2022,8:00,17:00
+10008,Martinez,Leila,3-10-2022,8:00,17:00
+10009,San Jose,Allison ,3-10-2022,8:00,17:00
+10010,Rosario,Cydney ,3-10-2022,8:00,17:00
+10011,Lopez,Josie ,3-10-2022,8:00,17:00
+10012,De Leon,Selena ,3-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,3-10-2022,8:00,17:00
+10014,Bautista,Mark ,3-10-2022,8:00,17:00
+10015,Lazaro,Darlene ,3-10-2022,8:00,17:00
+10016,Delos Santos,Kolby ,3-10-2022,8:00,17:00
+10017,Santos,Vella ,3-10-2022,8:00,17:00
+10018,Del Rosario,Tomas,3-10-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,3-10-2022,8:00,17:00
+10020,Gutierrez,Percival ,3-10-2022,8:00,17:00
+10021,Manalaysay,Garfield ,3-10-2022,8:00,17:00
+10022,Villegas,Lizeth ,3-10-2022,8:00,17:00
+10023,Ramos,Carol ,3-10-2022,8:00,17:00
+10024,Maceda,Emelia ,3-10-2022,8:00,17:00
+10025,Aguilar,Delia ,3-10-2022,8:00,17:00
+10001,Crisostomo,Jose,4-10-2022,8:00,17:00
+10002,Mata,Christian,4-10-2022,8:00,17:00
+10003,San Jose,Brad ,4-10-2022,8:00,17:00
+10004,Salcedo,Anthony,4-10-2022,8:00,17:00
+10005,Romualdez,Alice,4-10-2022,8:15,17:00
+10006,Atienza,Rosie ,4-10-2022,8:00,17:00
+10007,Farala,Martha,4-10-2022,8:00,17:00
+10008,Martinez,Leila,4-10-2022,8:00,17:00
+10009,San Jose,Allison ,4-10-2022,8:00,17:00
+10010,Rosario,Cydney ,4-10-2022,8:00,17:00
+10011,Lopez,Josie ,4-10-2022,10:30,17:00
+10012,De Leon,Selena ,4-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,4-10-2022,8:00,17:00
+10014,Bautista,Mark ,4-10-2022,8:00,17:00
+10015,Lazaro,Darlene ,4-10-2022,8:00,17:00
+10016,Delos Santos,Kolby ,4-10-2022,8:00,17:00
+10017,Santos,Vella ,4-10-2022,8:00,17:00
+10018,Del Rosario,Tomas,4-10-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,4-10-2022,8:00,17:00
+10020,Gutierrez,Percival ,4-10-2022,8:00,17:00
+10021,Manalaysay,Garfield ,4-10-2022,13:00,17:00
+10022,Villegas,Lizeth ,4-10-2022,8:00,17:00
+10023,Ramos,Carol ,4-10-2022,8:00,17:00
+10024,Maceda,Emelia ,4-10-2022,8:00,17:00
+10025,Aguilar,Delia ,4-10-2022,8:00,17:00
+10001,Crisostomo,Jose,5-10-2022,8:00,17:00
+10002,Mata,Christian,5-10-2022,8:00,17:00
+10003,San Jose,Brad ,5-10-2022,11:30,17:00
+10004,Salcedo,Anthony,5-10-2022,8:00,17:00
+10005,Romualdez,Alice,5-10-2022,8:00,17:00
+10006,Atienza,Rosie ,5-10-2022,8:00,17:00
+10007,Farala,Martha,5-10-2022,8:00,17:00
+10008,Martinez,Leila,5-10-2022,8:10,17:00
+10009,San Jose,Allison ,5-10-2022,0:00,0:00
+10010,Rosario,Cydney ,5-10-2022,8:00,17:00
+10011,Lopez,Josie ,5-10-2022,8:00,17:00
+10012,De Leon,Selena ,5-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,5-10-2022,8:00,17:00
+10014,Bautista,Mark ,5-10-2022,8:00,17:00
+10015,Lazaro,Darlene ,5-10-2022,8:00,17:00
+10016,Delos Santos,Kolby ,5-10-2022,8:00,17:00
+10017,Santos,Vella ,5-10-2022,8:05,17:00
+10018,Del Rosario,Tomas,5-10-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,5-10-2022,8:00,17:00
+10020,Gutierrez,Percival ,5-10-2022,8:00,17:00
+10021,Manalaysay,Garfield ,5-10-2022,8:00,17:00
+10022,Villegas,Lizeth ,5-10-2022,8:00,17:00
+10023,Ramos,Carol ,5-10-2022,9:00,17:00
+10024,Maceda,Emelia ,5-10-2022,8:00,17:00
+10025,Aguilar,Delia ,5-10-2022,8:00,17:00
+10001,Crisostomo,Jose,6-10-2022,8:00,17:00
+10002,Mata,Christian,6-10-2022,8:00,17:00
+10003,San Jose,Brad ,6-10-2022,8:00,17:00
+10004,Salcedo,Anthony,6-10-2022,8:00,17:00
+10005,Romualdez,Alice,6-10-2022,8:00,17:00
+10006,Atienza,Rosie ,6-10-2022,8:00,17:00
+10007,Farala,Martha,6-10-2022,8:00,17:00
+10008,Martinez,Leila,6-10-2022,8:00,17:00
+10009,San Jose,Allison ,6-10-2022,8:00,17:00
+10010,Rosario,Cydney ,6-10-2022,8:00,17:00
+10011,Lopez,Josie ,6-10-2022,8:00,17:00
+10012,De Leon,Selena ,6-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,6-10-2022,8:00,17:00
+10014,Bautista,Mark ,6-10-2022,8:00,17:00
+10015,Lazaro,Darlene ,6-10-2022,8:00,17:00
+10016,Delos Santos,Kolby ,6-10-2022,8:00,17:00
+10017,Santos,Vella ,6-10-2022,8:00,17:00
+10018,Del Rosario,Tomas,6-10-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,6-10-2022,8:00,17:00
+10020,Gutierrez,Percival ,6-10-2022,8:00,17:00
+10021,Manalaysay,Garfield ,6-10-2022,8:00,17:00
+10022,Villegas,Lizeth ,6-10-2022,8:00,17:00
+10023,Ramos,Carol ,6-10-2022,8:00,17:00
+10024,Maceda,Emelia ,6-10-2022,8:00,17:00
+10025,Aguilar,Delia ,6-10-2022,8:00,17:00
+10001,Crisostomo,Jose,7-10-2022,8:00,17:00
+10002,Mata,Christian,7-10-2022,8:00,17:00
+10003,San Jose,Brad ,7-10-2022,8:00,17:00
+10004,Salcedo,Anthony,7-10-2022,8:00,17:00
+10005,Romualdez,Alice,7-10-2022,8:00,17:00
+10006,Atienza,Rosie ,7-10-2022,8:00,17:00
+10007,Farala,Martha,7-10-2022,8:00,17:00
+10008,Martinez,Leila,7-10-2022,8:00,17:00
+10009,San Jose,Allison ,7-10-2022,8:00,17:00
+10010,Rosario,Cydney ,7-10-2022,8:00,17:00
+10011,Lopez,Josie ,7-10-2022,8:00,17:00
+10012,De Leon,Selena ,7-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,7-10-2022,10:00,17:00
+10014,Bautista,Mark ,7-10-2022,0:00,0:00
+10015,Lazaro,Darlene ,7-10-2022,10:00,17:00
+10016,Delos Santos,Kolby ,7-10-2022,10:00,17:00
+10017,Santos,Vella ,7-10-2022,10:00,17:00
+10018,Del Rosario,Tomas,7-10-2022,10:00,17:00
+10019,Tolentino,Jacklyn ,7-10-2022,10:00,17:00
+10020,Gutierrez,Percival ,7-10-2022,10:00,17:00
+10021,Manalaysay,Garfield ,7-10-2022,10:00,17:00
+10022,Villegas,Lizeth ,7-10-2022,10:00,17:00
+10023,Ramos,Carol ,7-10-2022,10:00,17:00
+10024,Maceda,Emelia ,7-10-2022,10:00,17:00
+10025,Aguilar,Delia ,7-10-2022,10:00,17:00
+10001,Crisostomo,Jose,10-10-2022,8:00,17:00
+10002,Mata,Christian,10-10-2022,8:00,17:00
+10003,San Jose,Brad ,10-10-2022,8:00,17:00
+10004,Salcedo,Anthony,10-10-2022,8:00,17:00
+10005,Romualdez,Alice,10-10-2022,8:00,17:00
+10006,Atienza,Rosie ,10-10-2022,8:00,17:00
+10007,Farala,Martha,10-10-2022,8:00,17:00
+10008,Martinez,Leila,10-10-2022,8:00,17:00
+10009,San Jose,Allison ,10-10-2022,8:00,17:00
+10010,Rosario,Cydney ,10-10-2022,8:00,17:00
+10011,Lopez,Josie ,10-10-2022,8:00,17:00
+10012,De Leon,Selena ,10-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,10-10-2022,8:00,17:00
+10014,Bautista,Mark ,10-10-2022,8:00,17:00
+10015,Lazaro,Darlene ,10-10-2022,8:00,17:00
+10016,Delos Santos,Kolby ,10-10-2022,8:00,17:00
+10017,Santos,Vella ,10-10-2022,8:00,17:00
+10018,Del Rosario,Tomas,10-10-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,10-10-2022,8:00,17:00
+10020,Gutierrez,Percival ,10-10-2022,8:00,17:00
+10021,Manalaysay,Garfield ,10-10-2022,8:00,17:00
+10022,Villegas,Lizeth ,10-10-2022,8:00,17:00
+10023,Ramos,Carol ,10-10-2022,8:00,17:00
+10024,Maceda,Emelia ,10-10-2022,8:00,17:00
+10025,Aguilar,Delia ,10-10-2022,8:00,17:00
+10001,Crisostomo,Jose,11-10-2022,8:00,17:00
+10002,Mata,Christian,11-10-2022,8:00,17:00
+10003,San Jose,Brad ,11-10-2022,8:00,17:00
+10004,Salcedo,Anthony,11-10-2022,8:00,17:00
+10005,Romualdez,Alice,11-10-2022,8:00,17:00
+10006,Atienza,Rosie ,11-10-2022,8:00,17:00
+10007,Farala,Martha,11-10-2022,8:27,17:00
+10008,Martinez,Leila,11-10-2022,8:01,17:00
+10009,San Jose,Allison ,11-10-2022,8:05,17:00
+10010,Rosario,Cydney ,11-10-2022,0:00,0:00
+10011,Lopez,Josie ,11-10-2022,8:00,17:00
+10012,De Leon,Selena ,11-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,11-10-2022,8:00,17:00
+10014,Bautista,Mark ,11-10-2022,8:00,17:00
+10015,Lazaro,Darlene ,11-10-2022,8:00,17:00
+10016,Delos Santos,Kolby ,11-10-2022,8:28,17:00
+10017,Santos,Vella ,11-10-2022,8:00,17:00
+10018,Del Rosario,Tomas,11-10-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,11-10-2022,8:00,17:00
+10020,Gutierrez,Percival ,11-10-2022,8:00,17:00
+10021,Manalaysay,Garfield ,11-10-2022,8:11,17:00
+10022,Villegas,Lizeth ,11-10-2022,8:00,17:00
+10023,Ramos,Carol ,11-10-2022,8:00,17:00
+10024,Maceda,Emelia ,11-10-2022,8:21,17:00
+10025,Aguilar,Delia ,11-10-2022,8:00,17:00
+10001,Crisostomo,Jose,12-10-2022,8:00,17:00
+10002,Mata,Christian,12-10-2022,8:00,17:00
+10003,San Jose,Brad ,12-10-2022,8:00,17:00
+10004,Salcedo,Anthony,12-10-2022,8:00,17:00
+10005,Romualdez,Alice,12-10-2022,8:00,17:00
+10006,Atienza,Rosie ,12-10-2022,8:00,17:00
+10007,Farala,Martha,12-10-2022,8:00,17:00
+10008,Martinez,Leila,12-10-2022,8:00,17:00
+10009,San Jose,Allison ,12-10-2022,8:00,17:00
+10010,Rosario,Cydney ,12-10-2022,8:00,17:00
+10011,Lopez,Josie ,12-10-2022,8:00,17:00
+10012,De Leon,Selena ,12-10-2022,8:00,17:00
+10013,Romualdez,Fredrick ,12-10-2022,8:00,17:00
+10014,Bautista,Mark ,12-10-2022,8:00,17:00
+10015,Lazaro,Darlene ,12-10-2022,8:00,17:00
+10016,Delos Santos,Kolby ,12-10-2022,8:00,17:00
+10017,Santos,Vella ,12-10-2022,8:00,17:00
+10018,Del Rosario,Tomas,12-10-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,12-10-2022,8:00,17:00
+10020,Gutierrez,Percival ,12-10-2022,8:00,17:00
+10021,Manalaysay,Garfield ,12-10-2022,8:00,17:00
+10022,Villegas,Lizeth ,12-10-2022,8:00,17:00
+10023,Ramos,Carol ,12-10-2022,8:00,17:00
+10024,Maceda,Emelia ,12-10-2022,8:00,17:00
+10025,Aguilar,Delia ,12-10-2022,8:00,17:00
+10001,Crisostomo,Jose,13-10-22,8:00,17:00
+10002,Mata,Christian,13-10-22,8:00,17:00
+10003,San Jose,Brad ,13-10-22,8:00,17:00
+10004,Salcedo,Anthony,13-10-22,8:00,17:00
+10005,Romualdez,Alice,13-10-22,8:15,17:00
+10006,Atienza,Rosie ,13-10-22,8:00,17:00
+10007,Farala,Martha,13-10-22,8:00,17:00
+10008,Martinez,Leila,13-10-22,8:00,17:00
+10009,San Jose,Allison ,13-10-22,8:00,17:00
+10010,Rosario,Cydney ,13-10-22,8:00,17:00
+10011,Lopez,Josie ,13-10-22,10:30,17:00
+10012,De Leon,Selena ,13-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,13-10-22,8:00,17:00
+10014,Bautista,Mark ,13-10-22,8:00,17:00
+10015,Lazaro,Darlene ,13-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,13-10-22,8:00,17:00
+10017,Santos,Vella ,13-10-22,8:00,17:00
+10018,Del Rosario,Tomas,13-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,13-10-22,8:00,17:00
+10020,Gutierrez,Percival ,13-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,13-10-22,13:00,17:00
+10022,Villegas,Lizeth ,13-10-22,8:00,17:00
+10023,Ramos,Carol ,13-10-22,8:00,17:00
+10024,Maceda,Emelia ,13-10-22,8:00,17:00
+10025,Aguilar,Delia ,13-10-22,8:00,17:00
+10001,Crisostomo,Jose,14-10-22,8:00,17:00
+10002,Mata,Christian,14-10-22,8:00,17:00
+10003,San Jose,Brad ,14-10-22,11:30,17:00
+10004,Salcedo,Anthony,14-10-22,8:00,17:00
+10005,Romualdez,Alice,14-10-22,8:00,17:00
+10006,Atienza,Rosie ,14-10-22,8:00,17:00
+10007,Farala,Martha,14-10-22,8:00,17:00
+10008,Martinez,Leila,14-10-22,8:10,17:00
+10009,San Jose,Allison ,14-10-22,8:00,17:00
+10010,Rosario,Cydney ,14-10-22,8:00,17:00
+10011,Lopez,Josie ,14-10-22,8:00,17:00
+10012,De Leon,Selena ,14-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,14-10-22,8:00,17:00
+10014,Bautista,Mark ,14-10-22,8:00,17:00
+10015,Lazaro,Darlene ,14-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,14-10-22,8:00,17:00
+10017,Santos,Vella ,14-10-22,8:05,17:00
+10018,Del Rosario,Tomas,14-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,14-10-22,8:00,17:00
+10020,Gutierrez,Percival ,14-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,14-10-22,8:00,17:00
+10022,Villegas,Lizeth ,14-10-22,8:00,17:00
+10023,Ramos,Carol ,14-10-22,9:00,17:00
+10024,Maceda,Emelia ,14-10-22,8:00,17:00
+10025,Aguilar,Delia ,14-10-22,8:00,17:00
+10001,Crisostomo,Jose,17-10-22,8:00,17:00
+10002,Mata,Christian,17-10-22,8:00,17:00
+10003,San Jose,Brad ,17-10-22,8:00,17:00
+10004,Salcedo,Anthony,17-10-22,8:00,17:00
+10005,Romualdez,Alice,17-10-22,8:00,17:00
+10006,Atienza,Rosie ,17-10-22,8:00,17:00
+10007,Farala,Martha,17-10-22,8:00,17:00
+10008,Martinez,Leila,17-10-22,8:00,17:00
+10009,San Jose,Allison ,17-10-22,8:00,17:00
+10010,Rosario,Cydney ,17-10-22,8:00,17:00
+10011,Lopez,Josie ,17-10-22,8:00,17:00
+10012,De Leon,Selena ,17-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,17-10-22,8:00,17:00
+10014,Bautista,Mark ,17-10-22,8:00,17:00
+10015,Lazaro,Darlene ,17-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,17-10-22,8:00,17:00
+10017,Santos,Vella ,17-10-22,8:00,17:00
+10018,Del Rosario,Tomas,17-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,17-10-22,8:00,17:00
+10020,Gutierrez,Percival ,17-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,17-10-22,8:00,17:00
+10022,Villegas,Lizeth ,17-10-22,8:00,17:00
+10023,Ramos,Carol ,17-10-22,8:00,17:00
+10024,Maceda,Emelia ,17-10-22,8:00,17:00
+10025,Aguilar,Delia ,17-10-22,8:00,17:00
+10001,Crisostomo,Jose,18-10-22,8:00,17:00
+10002,Mata,Christian,18-10-22,8:00,17:00
+10003,San Jose,Brad ,18-10-22,8:00,17:00
+10004,Salcedo,Anthony,18-10-22,8:00,17:00
+10005,Romualdez,Alice,18-10-22,8:00,17:00
+10006,Atienza,Rosie ,18-10-22,8:00,17:00
+10007,Farala,Martha,18-10-22,8:00,17:00
+10008,Martinez,Leila,18-10-22,8:00,17:00
+10009,San Jose,Allison ,18-10-22,8:00,17:00
+10010,Rosario,Cydney ,18-10-22,8:00,17:00
+10011,Lopez,Josie ,18-10-22,8:00,17:00
+10012,De Leon,Selena ,18-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,18-10-22,10:00,17:00
+10014,Bautista,Mark ,18-10-22,10:00,17:00
+10015,Lazaro,Darlene ,18-10-22,10:00,17:00
+10016,Delos Santos,Kolby ,18-10-22,0:00,0:00
+10017,Santos,Vella ,18-10-22,10:00,17:00
+10018,Del Rosario,Tomas,18-10-22,10:00,17:00
+10019,Tolentino,Jacklyn ,18-10-22,10:00,17:00
+10020,Gutierrez,Percival ,18-10-22,10:00,17:00
+10021,Manalaysay,Garfield ,18-10-22,10:00,17:00
+10022,Villegas,Lizeth ,18-10-22,10:00,17:00
+10023,Ramos,Carol ,18-10-22,10:00,17:00
+10024,Maceda,Emelia ,18-10-22,10:00,17:00
+10025,Aguilar,Delia ,18-10-22,10:00,17:00
+10001,Crisostomo,Jose,19-10-22,8:00,17:00
+10002,Mata,Christian,19-10-22,8:00,17:00
+10003,San Jose,Brad ,19-10-22,8:00,17:00
+10004,Salcedo,Anthony,19-10-22,8:00,17:00
+10005,Romualdez,Alice,19-10-22,8:00,17:00
+10006,Atienza,Rosie ,19-10-22,8:00,17:00
+10007,Farala,Martha,19-10-22,8:00,17:00
+10008,Martinez,Leila,19-10-22,8:00,17:00
+10009,San Jose,Allison ,19-10-22,8:00,17:00
+10010,Rosario,Cydney ,19-10-22,8:00,17:00
+10011,Lopez,Josie ,19-10-22,8:00,17:00
+10012,De Leon,Selena ,19-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,19-10-22,8:00,17:00
+10014,Bautista,Mark ,19-10-22,8:00,17:00
+10015,Lazaro,Darlene ,19-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,19-10-22,8:00,17:00
+10017,Santos,Vella ,19-10-22,8:00,17:00
+10018,Del Rosario,Tomas,19-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,19-10-22,8:00,17:00
+10020,Gutierrez,Percival ,19-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,19-10-22,8:00,17:00
+10022,Villegas,Lizeth ,19-10-22,8:00,17:00
+10023,Ramos,Carol ,19-10-22,8:00,17:00
+10024,Maceda,Emelia ,19-10-22,8:00,17:00
+10025,Aguilar,Delia ,19-10-22,8:00,17:00
+10001,Crisostomo,Jose,20-10-22,8:00,17:00
+10002,Mata,Christian,20-10-22,8:00,17:00
+10003,San Jose,Brad ,20-10-22,8:00,17:00
+10004,Salcedo,Anthony,20-10-22,8:00,17:00
+10005,Romualdez,Alice,20-10-22,8:00,17:00
+10006,Atienza,Rosie ,20-10-22,8:00,17:00
+10007,Farala,Martha,20-10-22,8:27,17:00
+10008,Martinez,Leila,20-10-22,8:01,17:00
+10009,San Jose,Allison ,20-10-22,8:05,17:00
+10010,Rosario,Cydney ,20-10-22,8:00,17:00
+10011,Lopez,Josie ,20-10-22,8:00,17:00
+10012,De Leon,Selena ,20-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,20-10-22,8:00,17:00
+10014,Bautista,Mark ,20-10-22,8:00,17:00
+10015,Lazaro,Darlene ,20-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,20-10-22,8:28,17:00
+10017,Santos,Vella ,20-10-22,8:00,17:00
+10018,Del Rosario,Tomas,20-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,20-10-22,8:00,17:00
+10020,Gutierrez,Percival ,20-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,20-10-22,8:11,17:00
+10022,Villegas,Lizeth ,20-10-22,8:00,17:00
+10023,Ramos,Carol ,20-10-22,8:00,17:00
+10024,Maceda,Emelia ,20-10-22,8:21,17:00
+10025,Aguilar,Delia ,20-10-22,8:00,17:00
+10001,Crisostomo,Jose,21-10-22,8:00,17:00
+10002,Mata,Christian,21-10-22,8:00,17:00
+10003,San Jose,Brad ,21-10-22,8:00,17:00
+10004,Salcedo,Anthony,21-10-22,8:00,17:00
+10005,Romualdez,Alice,21-10-22,8:00,17:00
+10006,Atienza,Rosie ,21-10-22,8:00,17:00
+10007,Farala,Martha,21-10-22,8:00,17:00
+10008,Martinez,Leila,21-10-22,8:00,17:00
+10009,San Jose,Allison ,21-10-22,8:00,17:00
+10010,Rosario,Cydney ,21-10-22,0:00,0:00
+10011,Lopez,Josie ,21-10-22,8:00,17:00
+10012,De Leon,Selena ,21-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,21-10-22,8:00,17:00
+10014,Bautista,Mark ,21-10-22,8:00,17:00
+10015,Lazaro,Darlene ,21-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,21-10-22,8:00,17:00
+10017,Santos,Vella ,21-10-22,8:00,17:00
+10018,Del Rosario,Tomas,21-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,21-10-22,8:00,17:00
+10020,Gutierrez,Percival ,21-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,21-10-22,8:00,17:00
+10022,Villegas,Lizeth ,21-10-22,8:00,17:00
+10023,Ramos,Carol ,21-10-22,8:00,17:00
+10024,Maceda,Emelia ,21-10-22,8:00,17:00
+10025,Aguilar,Delia ,21-10-22,8:00,17:00
+10001,Crisostomo,Jose,24-10-22,8:00,17:00
+10002,Mata,Christian,24-10-22,8:00,17:00
+10003,San Jose,Brad ,24-10-22,8:00,17:00
+10004,Salcedo,Anthony,24-10-22,8:00,17:00
+10005,Romualdez,Alice,24-10-22,8:15,17:00
+10006,Atienza,Rosie ,24-10-22,8:00,17:00
+10007,Farala,Martha,24-10-22,8:00,17:00
+10008,Martinez,Leila,24-10-22,8:00,17:00
+10009,San Jose,Allison ,24-10-22,8:00,17:00
+10010,Rosario,Cydney ,24-10-22,8:00,17:00
+10011,Lopez,Josie ,24-10-22,10:30,17:00
+10012,De Leon,Selena ,24-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,24-10-22,8:00,17:00
+10014,Bautista,Mark ,24-10-22,8:00,17:00
+10015,Lazaro,Darlene ,24-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,24-10-22,8:00,17:00
+10017,Santos,Vella ,24-10-22,8:00,17:00
+10018,Del Rosario,Tomas,24-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,24-10-22,8:00,17:00
+10020,Gutierrez,Percival ,24-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,24-10-22,13:00,17:00
+10022,Villegas,Lizeth ,24-10-22,8:00,17:00
+10023,Ramos,Carol ,24-10-22,8:00,17:00
+10024,Maceda,Emelia ,24-10-22,8:00,17:00
+10025,Aguilar,Delia ,24-10-22,8:00,17:00
+10001,Crisostomo,Jose,25-10-22,8:00,17:00
+10002,Mata,Christian,25-10-22,8:00,17:00
+10003,San Jose,Brad ,25-10-22,11:30,17:00
+10004,Salcedo,Anthony,25-10-22,8:00,17:00
+10005,Romualdez,Alice,25-10-22,8:00,17:00
+10006,Atienza,Rosie ,25-10-22,8:00,17:00
+10007,Farala,Martha,25-10-22,8:00,17:00
+10008,Martinez,Leila,25-10-22,8:10,17:00
+10009,San Jose,Allison ,25-10-22,8:00,17:00
+10010,Rosario,Cydney ,25-10-22,8:00,17:00
+10011,Lopez,Josie ,25-10-22,8:00,17:00
+10012,De Leon,Selena ,25-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,25-10-22,8:00,17:00
+10014,Bautista,Mark ,25-10-22,8:00,17:00
+10015,Lazaro,Darlene ,25-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,25-10-22,8:00,17:00
+10017,Santos,Vella ,25-10-22,8:05,17:00
+10018,Del Rosario,Tomas,25-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,25-10-22,8:00,17:00
+10020,Gutierrez,Percival ,25-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,25-10-22,8:00,17:00
+10022,Villegas,Lizeth ,25-10-22,8:00,17:00
+10023,Ramos,Carol ,25-10-22,9:00,17:00
+10024,Maceda,Emelia ,25-10-22,8:00,17:00
+10025,Aguilar,Delia ,25-10-22,8:00,17:00
+10001,Crisostomo,Jose,26-10-22,8:00,17:00
+10002,Mata,Christian,26-10-22,8:00,17:00
+10003,San Jose,Brad ,26-10-22,8:00,17:00
+10004,Salcedo,Anthony,26-10-22,8:00,17:00
+10005,Romualdez,Alice,26-10-22,8:00,17:00
+10006,Atienza,Rosie ,26-10-22,8:00,17:00
+10007,Farala,Martha,26-10-22,8:00,17:00
+10008,Martinez,Leila,26-10-22,8:00,17:00
+10009,San Jose,Allison ,26-10-22,8:00,17:00
+10010,Rosario,Cydney ,26-10-22,8:00,17:00
+10011,Lopez,Josie ,26-10-22,8:00,17:00
+10012,De Leon,Selena ,26-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,26-10-22,8:00,17:00
+10014,Bautista,Mark ,26-10-22,8:00,17:00
+10015,Lazaro,Darlene ,26-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,26-10-22,8:00,17:00
+10017,Santos,Vella ,26-10-22,8:00,17:00
+10018,Del Rosario,Tomas,26-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,26-10-22,8:00,17:00
+10020,Gutierrez,Percival ,26-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,26-10-22,8:00,17:00
+10022,Villegas,Lizeth ,26-10-22,8:00,17:00
+10023,Ramos,Carol ,26-10-22,8:00,17:00
+10024,Maceda,Emelia ,26-10-22,8:00,17:00
+10025,Aguilar,Delia ,26-10-22,8:00,17:00
+10001,Crisostomo,Jose,27-10-22,8:00,17:00
+10002,Mata,Christian,27-10-22,8:00,17:00
+10003,San Jose,Brad ,27-10-22,8:00,17:00
+10004,Salcedo,Anthony,27-10-22,8:00,17:00
+10005,Romualdez,Alice,27-10-22,8:00,17:00
+10006,Atienza,Rosie ,27-10-22,8:00,17:00
+10007,Farala,Martha,27-10-22,8:00,17:00
+10008,Martinez,Leila,27-10-22,8:00,17:00
+10009,San Jose,Allison ,27-10-22,8:00,17:00
+10010,Rosario,Cydney ,27-10-22,8:00,17:00
+10011,Lopez,Josie ,27-10-22,8:00,17:00
+10012,De Leon,Selena ,27-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,27-10-22,10:00,17:00
+10014,Bautista,Mark ,27-10-22,10:00,17:00
+10015,Lazaro,Darlene ,27-10-22,10:00,17:00
+10016,Delos Santos,Kolby ,27-10-22,10:00,17:00
+10017,Santos,Vella ,27-10-22,10:00,17:00
+10018,Del Rosario,Tomas,27-10-22,0:00,0:00
+10019,Tolentino,Jacklyn ,27-10-22,10:00,17:00
+10020,Gutierrez,Percival ,27-10-22,10:00,17:00
+10021,Manalaysay,Garfield ,27-10-22,10:00,17:00
+10022,Villegas,Lizeth ,27-10-22,10:00,17:00
+10023,Ramos,Carol ,27-10-22,10:00,17:00
+10024,Maceda,Emelia ,27-10-22,10:00,17:00
+10025,Aguilar,Delia ,27-10-22,10:00,17:00
+10001,Crisostomo,Jose,28-10-22,8:00,17:00
+10002,Mata,Christian,28-10-22,8:00,17:00
+10003,San Jose,Brad ,28-10-22,8:00,17:00
+10004,Salcedo,Anthony,28-10-22,8:00,17:00
+10005,Romualdez,Alice,28-10-22,8:00,17:00
+10006,Atienza,Rosie ,28-10-22,8:00,17:00
+10007,Farala,Martha,28-10-22,8:00,17:00
+10008,Martinez,Leila,28-10-22,8:00,17:00
+10009,San Jose,Allison ,28-10-22,8:00,17:00
+10010,Rosario,Cydney ,28-10-22,8:00,17:00
+10011,Lopez,Josie ,28-10-22,8:00,17:00
+10012,De Leon,Selena ,28-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,28-10-22,8:00,17:00
+10014,Bautista,Mark ,28-10-22,8:00,17:00
+10015,Lazaro,Darlene ,28-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,28-10-22,8:00,17:00
+10017,Santos,Vella ,28-10-22,8:00,17:00
+10018,Del Rosario,Tomas,28-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,28-10-22,8:00,17:00
+10020,Gutierrez,Percival ,28-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,28-10-22,8:00,17:00
+10022,Villegas,Lizeth ,28-10-22,8:00,17:00
+10023,Ramos,Carol ,28-10-22,8:00,17:00
+10024,Maceda,Emelia ,28-10-22,8:00,17:00
+10025,Aguilar,Delia ,28-10-22,8:00,17:00
+10001,Crisostomo,Jose,31-10-22,8:00,17:00
+10002,Mata,Christian,31-10-22,8:00,17:00
+10003,San Jose,Brad ,31-10-22,8:00,17:00
+10004,Salcedo,Anthony,31-10-22,8:00,17:00
+10005,Romualdez,Alice,31-10-22,8:00,17:00
+10006,Atienza,Rosie ,31-10-22,8:00,17:00
+10007,Farala,Martha,31-10-22,8:27,17:00
+10008,Martinez,Leila,31-10-22,8:01,17:00
+10009,San Jose,Allison ,31-10-22,8:05,17:00
+10010,Rosario,Cydney ,31-10-22,8:00,17:00
+10011,Lopez,Josie ,31-10-22,8:00,17:00
+10012,De Leon,Selena ,31-10-22,8:00,17:00
+10013,Romualdez,Fredrick ,31-10-22,8:00,17:00
+10014,Bautista,Mark ,31-10-22,8:00,17:00
+10015,Lazaro,Darlene ,31-10-22,8:00,17:00
+10016,Delos Santos,Kolby ,31-10-22,8:28,17:00
+10017,Santos,Vella ,31-10-22,8:00,17:00
+10018,Del Rosario,Tomas,31-10-22,8:00,17:00
+10019,Tolentino,Jacklyn ,31-10-22,8:00,17:00
+10020,Gutierrez,Percival ,31-10-22,8:00,17:00
+10021,Manalaysay,Garfield ,31-10-22,8:11,17:00
+10022,Villegas,Lizeth ,31-10-22,8:00,17:00
+10023,Ramos,Carol ,31-10-22,8:00,17:00
+10024,Maceda,Emelia ,31-10-22,8:21,17:00
+10025,Aguilar,Delia ,31-10-22,8:00,17:00
+10001,Crisostomo,Jose,1-11-2022,0:00,0:00
+10002,Mata,Christian,1-11-2022,0:00,0:00
+10003,San Jose,Brad ,1-11-2022,0:00,0:00
+10004,Salcedo,Anthony,1-11-2022,0:00,0:00
+10005,Romualdez,Alice,1-11-2022,0:00,0:00
+10006,Atienza,Rosie ,1-11-2022,0:00,0:00
+10007,Farala,Martha,1-11-2022,0:00,0:00
+10008,Martinez,Leila,1-11-2022,0:00,0:00
+10009,San Jose,Allison ,1-11-2022,0:00,0:00
+10010,Rosario,Cydney ,1-11-2022,0:00,0:00
+10011,Lopez,Josie ,1-11-2022,0:00,0:00
+10012,De Leon,Selena ,1-11-2022,0:00,0:00
+10013,Romualdez,Fredrick ,1-11-2022,0:00,0:00
+10014,Bautista,Mark ,1-11-2022,0:00,0:00
+10015,Lazaro,Darlene ,1-11-2022,0:00,0:00
+10016,Delos Santos,Kolby ,1-11-2022,0:00,0:00
+10017,Santos,Vella ,1-11-2022,0:00,0:00
+10018,Del Rosario,Tomas,1-11-2022,0:00,0:00
+10019,Tolentino,Jacklyn ,1-11-2022,0:00,0:00
+10020,Gutierrez,Percival ,1-11-2022,0:00,0:00
+10021,Manalaysay,Garfield ,1-11-2022,0:00,0:00
+10022,Villegas,Lizeth ,1-11-2022,0:00,0:00
+10023,Ramos,Carol ,1-11-2022,0:00,0:00
+10024,Maceda,Emelia ,1-11-2022,0:00,0:00
+10025,Aguilar,Delia ,1-11-2022,0:00,0:00
+10001,Crisostomo,Jose,2-11-2022,8:00,17:00
+10002,Mata,Christian,2-11-2022,8:00,17:00
+10003,San Jose,Brad ,2-11-2022,8:00,17:00
+10004,Salcedo,Anthony,2-11-2022,8:00,17:00
+10005,Romualdez,Alice,2-11-2022,8:15,17:00
+10006,Atienza,Rosie ,2-11-2022,8:00,17:00
+10007,Farala,Martha,2-11-2022,8:00,17:00
+10008,Martinez,Leila,2-11-2022,8:00,17:00
+10009,San Jose,Allison ,2-11-2022,8:00,17:00
+10010,Rosario,Cydney ,2-11-2022,8:00,17:00
+10011,Lopez,Josie ,2-11-2022,10:30,17:00
+10012,De Leon,Selena ,2-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,2-11-2022,8:00,17:00
+10014,Bautista,Mark ,2-11-2022,8:00,17:00
+10015,Lazaro,Darlene ,2-11-2022,8:00,17:00
+10016,Delos Santos,Kolby ,2-11-2022,8:00,17:00
+10017,Santos,Vella ,2-11-2022,8:00,17:00
+10018,Del Rosario,Tomas,2-11-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,2-11-2022,8:00,17:00
+10020,Gutierrez,Percival ,2-11-2022,8:00,17:00
+10021,Manalaysay,Garfield ,2-11-2022,13:00,17:00
+10022,Villegas,Lizeth ,2-11-2022,8:00,17:00
+10023,Ramos,Carol ,2-11-2022,8:00,17:00
+10024,Maceda,Emelia ,2-11-2022,8:00,17:00
+10025,Aguilar,Delia ,2-11-2022,8:00,17:00
+10001,Crisostomo,Jose,3-11-2022,8:00,17:00
+10002,Mata,Christian,3-11-2022,8:00,17:00
+10003,San Jose,Brad ,3-11-2022,11:30,17:00
+10004,Salcedo,Anthony,3-11-2022,8:00,17:00
+10005,Romualdez,Alice,3-11-2022,8:00,17:00
+10006,Atienza,Rosie ,3-11-2022,8:00,17:00
+10007,Farala,Martha,3-11-2022,8:00,17:00
+10008,Martinez,Leila,3-11-2022,8:10,17:00
+10009,San Jose,Allison ,3-11-2022,8:00,17:00
+10010,Rosario,Cydney ,3-11-2022,8:00,17:00
+10011,Lopez,Josie ,3-11-2022,8:00,17:00
+10012,De Leon,Selena ,3-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,3-11-2022,8:00,17:00
+10014,Bautista,Mark ,3-11-2022,8:00,17:00
+10015,Lazaro,Darlene ,3-11-2022,8:00,17:00
+10016,Delos Santos,Kolby ,3-11-2022,8:00,17:00
+10017,Santos,Vella ,3-11-2022,8:05,17:00
+10018,Del Rosario,Tomas,3-11-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,3-11-2022,8:00,17:00
+10020,Gutierrez,Percival ,3-11-2022,8:00,17:00
+10021,Manalaysay,Garfield ,3-11-2022,8:00,17:00
+10022,Villegas,Lizeth ,3-11-2022,8:00,17:00
+10023,Ramos,Carol ,3-11-2022,9:00,17:00
+10024,Maceda,Emelia ,3-11-2022,8:00,17:00
+10025,Aguilar,Delia ,3-11-2022,8:00,17:00
+10001,Crisostomo,Jose,4-11-2022,8:00,17:00
+10002,Mata,Christian,4-11-2022,8:00,17:00
+10003,San Jose,Brad ,4-11-2022,8:00,17:00
+10004,Salcedo,Anthony,4-11-2022,8:00,17:00
+10005,Romualdez,Alice,4-11-2022,8:00,17:00
+10006,Atienza,Rosie ,4-11-2022,8:00,17:00
+10007,Farala,Martha,4-11-2022,8:00,17:00
+10008,Martinez,Leila,4-11-2022,8:00,17:00
+10009,San Jose,Allison ,4-11-2022,8:00,17:00
+10010,Rosario,Cydney ,4-11-2022,8:00,17:00
+10011,Lopez,Josie ,4-11-2022,8:00,17:00
+10012,De Leon,Selena ,4-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,4-11-2022,8:00,17:00
+10014,Bautista,Mark ,4-11-2022,8:00,17:00
+10015,Lazaro,Darlene ,4-11-2022,8:00,17:00
+10016,Delos Santos,Kolby ,4-11-2022,8:00,17:00
+10017,Santos,Vella ,4-11-2022,8:00,17:00
+10018,Del Rosario,Tomas,4-11-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,4-11-2022,8:00,17:00
+10020,Gutierrez,Percival ,4-11-2022,8:00,17:00
+10021,Manalaysay,Garfield ,4-11-2022,8:00,17:00
+10022,Villegas,Lizeth ,4-11-2022,8:00,17:00
+10023,Ramos,Carol ,4-11-2022,0:00,0:00
+10024,Maceda,Emelia ,4-11-2022,8:00,17:00
+10025,Aguilar,Delia ,4-11-2022,8:00,17:00
+10001,Crisostomo,Jose,7-11-2022,8:00,17:00
+10002,Mata,Christian,7-11-2022,8:00,17:00
+10003,San Jose,Brad ,7-11-2022,8:00,17:00
+10004,Salcedo,Anthony,7-11-2022,8:00,17:00
+10005,Romualdez,Alice,7-11-2022,8:00,17:00
+10006,Atienza,Rosie ,7-11-2022,8:00,17:00
+10007,Farala,Martha,7-11-2022,8:00,17:00
+10008,Martinez,Leila,7-11-2022,8:00,17:00
+10009,San Jose,Allison ,7-11-2022,8:00,17:00
+10010,Rosario,Cydney ,7-11-2022,8:00,17:00
+10011,Lopez,Josie ,7-11-2022,8:00,17:00
+10012,De Leon,Selena ,7-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,7-11-2022,10:00,17:00
+10014,Bautista,Mark ,7-11-2022,10:00,17:00
+10015,Lazaro,Darlene ,7-11-2022,10:00,17:00
+10016,Delos Santos,Kolby ,7-11-2022,10:00,17:00
+10017,Santos,Vella ,7-11-2022,10:00,17:00
+10018,Del Rosario,Tomas,7-11-2022,10:00,17:00
+10019,Tolentino,Jacklyn ,7-11-2022,10:00,17:00
+10020,Gutierrez,Percival ,7-11-2022,10:00,17:00
+10021,Manalaysay,Garfield ,7-11-2022,10:00,17:00
+10022,Villegas,Lizeth ,7-11-2022,10:00,17:00
+10023,Ramos,Carol ,7-11-2022,10:00,17:00
+10024,Maceda,Emelia ,7-11-2022,10:00,17:00
+10025,Aguilar,Delia ,7-11-2022,10:00,17:00
+10001,Crisostomo,Jose,8-11-2022,8:00,17:00
+10002,Mata,Christian,8-11-2022,8:00,17:00
+10003,San Jose,Brad ,8-11-2022,8:00,17:00
+10004,Salcedo,Anthony,8-11-2022,8:00,17:00
+10005,Romualdez,Alice,8-11-2022,8:00,17:00
+10006,Atienza,Rosie ,8-11-2022,8:00,17:00
+10007,Farala,Martha,8-11-2022,8:00,17:00
+10008,Martinez,Leila,8-11-2022,8:00,17:00
+10009,San Jose,Allison ,8-11-2022,8:00,17:00
+10010,Rosario,Cydney ,8-11-2022,8:00,17:00
+10011,Lopez,Josie ,8-11-2022,8:00,17:00
+10012,De Leon,Selena ,8-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,8-11-2022,8:00,17:00
+10014,Bautista,Mark ,8-11-2022,8:00,17:00
+10015,Lazaro,Darlene ,8-11-2022,8:00,17:00
+10016,Delos Santos,Kolby ,8-11-2022,8:00,17:00
+10017,Santos,Vella ,8-11-2022,8:00,17:00
+10018,Del Rosario,Tomas,8-11-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,8-11-2022,8:00,17:00
+10020,Gutierrez,Percival ,8-11-2022,8:00,17:00
+10021,Manalaysay,Garfield ,8-11-2022,8:00,17:00
+10022,Villegas,Lizeth ,8-11-2022,8:00,17:00
+10023,Ramos,Carol ,8-11-2022,8:00,17:00
+10024,Maceda,Emelia ,8-11-2022,8:00,17:00
+10025,Aguilar,Delia ,8-11-2022,8:00,17:00
+10001,Crisostomo,Jose,9-11-2022,8:00,17:00
+10002,Mata,Christian,9-11-2022,8:00,17:00
+10003,San Jose,Brad ,9-11-2022,8:00,17:00
+10004,Salcedo,Anthony,9-11-2022,8:00,17:00
+10005,Romualdez,Alice,9-11-2022,8:00,17:00
+10006,Atienza,Rosie ,9-11-2022,8:00,17:00
+10007,Farala,Martha,9-11-2022,8:27,17:00
+10008,Martinez,Leila,9-11-2022,8:01,17:00
+10009,San Jose,Allison ,9-11-2022,8:05,17:00
+10010,Rosario,Cydney ,9-11-2022,8:00,17:00
+10011,Lopez,Josie ,9-11-2022,8:00,17:00
+10012,De Leon,Selena ,9-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,9-11-2022,8:00,17:00
+10014,Bautista,Mark ,9-11-2022,8:00,17:00
+10015,Lazaro,Darlene ,9-11-2022,8:00,17:00
+10016,Delos Santos,Kolby ,9-11-2022,8:28,17:00
+10017,Santos,Vella ,9-11-2022,8:00,17:00
+10018,Del Rosario,Tomas,9-11-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,9-11-2022,8:00,17:00
+10020,Gutierrez,Percival ,9-11-2022,8:00,17:00
+10021,Manalaysay,Garfield ,9-11-2022,8:11,17:00
+10022,Villegas,Lizeth ,9-11-2022,8:00,17:00
+10023,Ramos,Carol ,9-11-2022,8:00,17:00
+10024,Maceda,Emelia ,9-11-2022,8:21,17:00
+10025,Aguilar,Delia ,9-11-2022,8:00,17:00
+10001,Crisostomo,Jose,10-11-2022,8:00,17:00
+10002,Mata,Christian,10-11-2022,8:00,17:00
+10003,San Jose,Brad ,10-11-2022,8:00,17:00
+10004,Salcedo,Anthony,10-11-2022,8:00,17:00
+10005,Romualdez,Alice,10-11-2022,8:00,17:00
+10006,Atienza,Rosie ,10-11-2022,8:00,17:00
+10007,Farala,Martha,10-11-2022,8:00,17:00
+10008,Martinez,Leila,10-11-2022,8:00,17:00
+10009,San Jose,Allison ,10-11-2022,8:00,17:00
+10010,Rosario,Cydney ,10-11-2022,8:00,17:00
+10011,Lopez,Josie ,10-11-2022,8:00,17:00
+10012,De Leon,Selena ,10-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,10-11-2022,8:00,17:00
+10014,Bautista,Mark ,10-11-2022,8:00,17:00
+10015,Lazaro,Darlene ,10-11-2022,8:00,17:00
+10016,Delos Santos,Kolby ,10-11-2022,8:00,17:00
+10017,Santos,Vella ,10-11-2022,8:00,17:00
+10018,Del Rosario,Tomas,10-11-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,10-11-2022,8:00,17:00
+10020,Gutierrez,Percival ,10-11-2022,8:00,17:00
+10021,Manalaysay,Garfield ,10-11-2022,8:00,17:00
+10022,Villegas,Lizeth ,10-11-2022,8:00,17:00
+10023,Ramos,Carol ,10-11-2022,8:00,17:00
+10024,Maceda,Emelia ,10-11-2022,8:00,17:00
+10025,Aguilar,Delia ,10-11-2022,8:00,17:00
+10001,Crisostomo,Jose,11-11-2022,8:00,17:00
+10002,Mata,Christian,11-11-2022,8:00,17:00
+10003,San Jose,Brad ,11-11-2022,8:00,17:00
+10004,Salcedo,Anthony,11-11-2022,8:00,17:00
+10005,Romualdez,Alice,11-11-2022,8:15,17:00
+10006,Atienza,Rosie ,11-11-2022,8:00,17:00
+10007,Farala,Martha,11-11-2022,8:00,17:00
+10008,Martinez,Leila,11-11-2022,8:00,17:00
+10009,San Jose,Allison ,11-11-2022,8:00,17:00
+10010,Rosario,Cydney ,11-11-2022,8:00,17:00
+10011,Lopez,Josie ,11-11-2022,10:30,17:00
+10012,De Leon,Selena ,11-11-2022,8:00,17:00
+10013,Romualdez,Fredrick ,11-11-2022,8:00,17:00
+10014,Bautista,Mark ,11-11-2022,8:00,17:00
+10015,Lazaro,Darlene ,11-11-2022,8:00,17:00
+10016,Delos Santos,Kolby ,11-11-2022,8:00,17:00
+10017,Santos,Vella ,11-11-2022,8:00,17:00
+10018,Del Rosario,Tomas,11-11-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,11-11-2022,8:00,17:00
+10020,Gutierrez,Percival ,11-11-2022,8:00,17:00
+10021,Manalaysay,Garfield ,11-11-2022,13:00,17:00
+10022,Villegas,Lizeth ,11-11-2022,8:00,17:00
+10023,Ramos,Carol ,11-11-2022,8:00,17:00
+10024,Maceda,Emelia ,11-11-2022,8:00,17:00
+10025,Aguilar,Delia ,11-11-2022,8:00,17:00
+10001,Crisostomo,Jose,14-11-22,8:00,17:00
+10002,Mata,Christian,14-11-22,8:00,17:00
+10003,San Jose,Brad ,14-11-22,11:30,17:00
+10004,Salcedo,Anthony,14-11-22,8:00,17:00
+10005,Romualdez,Alice,14-11-22,8:00,17:00
+10006,Atienza,Rosie ,14-11-22,8:00,17:00
+10007,Farala,Martha,14-11-22,8:00,17:00
+10008,Martinez,Leila,14-11-22,8:10,17:00
+10009,San Jose,Allison ,14-11-22,8:00,17:00
+10010,Rosario,Cydney ,14-11-22,8:00,17:00
+10011,Lopez,Josie ,14-11-22,8:00,17:00
+10012,De Leon,Selena ,14-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,14-11-22,8:00,17:00
+10014,Bautista,Mark ,14-11-22,8:00,17:00
+10015,Lazaro,Darlene ,14-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,14-11-22,8:00,17:00
+10017,Santos,Vella ,14-11-22,8:05,17:00
+10018,Del Rosario,Tomas,14-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,14-11-22,8:00,17:00
+10020,Gutierrez,Percival ,14-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,14-11-22,8:00,17:00
+10022,Villegas,Lizeth ,14-11-22,8:00,17:00
+10023,Ramos,Carol ,14-11-22,9:00,17:00
+10024,Maceda,Emelia ,14-11-22,8:00,17:00
+10025,Aguilar,Delia ,14-11-22,8:00,17:00
+10001,Crisostomo,Jose,15-11-22,8:00,17:00
+10002,Mata,Christian,15-11-22,8:00,17:00
+10003,San Jose,Brad ,15-11-22,8:00,17:00
+10004,Salcedo,Anthony,15-11-22,8:00,17:00
+10005,Romualdez,Alice,15-11-22,8:00,17:00
+10006,Atienza,Rosie ,15-11-22,8:00,17:00
+10007,Farala,Martha,15-11-22,8:00,17:00
+10008,Martinez,Leila,15-11-22,8:00,17:00
+10009,San Jose,Allison ,15-11-22,8:00,17:00
+10010,Rosario,Cydney ,15-11-22,8:00,17:00
+10011,Lopez,Josie ,15-11-22,8:00,17:00
+10012,De Leon,Selena ,15-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,15-11-22,8:00,17:00
+10014,Bautista,Mark ,15-11-22,8:00,17:00
+10015,Lazaro,Darlene ,15-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,15-11-22,8:00,17:00
+10017,Santos,Vella ,15-11-22,8:00,17:00
+10018,Del Rosario,Tomas,15-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,15-11-22,8:00,17:00
+10020,Gutierrez,Percival ,15-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,15-11-22,8:00,17:00
+10022,Villegas,Lizeth ,15-11-22,8:00,17:00
+10023,Ramos,Carol ,15-11-22,8:00,17:00
+10024,Maceda,Emelia ,15-11-22,8:00,17:00
+10025,Aguilar,Delia ,15-11-22,8:00,17:00
+10001,Crisostomo,Jose,16-11-22,8:00,17:00
+10002,Mata,Christian,16-11-22,8:00,17:00
+10003,San Jose,Brad ,16-11-22,8:00,17:00
+10004,Salcedo,Anthony,16-11-22,8:00,17:00
+10005,Romualdez,Alice,16-11-22,8:00,17:00
+10006,Atienza,Rosie ,16-11-22,8:00,17:00
+10007,Farala,Martha,16-11-22,8:00,17:00
+10008,Martinez,Leila,16-11-22,8:00,17:00
+10009,San Jose,Allison ,16-11-22,8:00,17:00
+10010,Rosario,Cydney ,16-11-22,8:00,17:00
+10011,Lopez,Josie ,16-11-22,8:00,17:00
+10012,De Leon,Selena ,16-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,16-11-22,10:00,17:00
+10014,Bautista,Mark ,16-11-22,10:00,17:00
+10015,Lazaro,Darlene ,16-11-22,10:00,17:00
+10016,Delos Santos,Kolby ,16-11-22,10:00,17:00
+10017,Santos,Vella ,16-11-22,10:00,17:00
+10018,Del Rosario,Tomas,16-11-22,10:00,17:00
+10019,Tolentino,Jacklyn ,16-11-22,10:00,17:00
+10020,Gutierrez,Percival ,16-11-22,10:00,17:00
+10021,Manalaysay,Garfield ,16-11-22,10:00,17:00
+10022,Villegas,Lizeth ,16-11-22,10:00,17:00
+10023,Ramos,Carol ,16-11-22,10:00,17:00
+10024,Maceda,Emelia ,16-11-22,10:00,17:00
+10025,Aguilar,Delia ,16-11-22,10:00,17:00
+10001,Crisostomo,Jose,17-11-22,8:00,17:00
+10002,Mata,Christian,17-11-22,8:00,17:00
+10003,San Jose,Brad ,17-11-22,8:00,17:00
+10004,Salcedo,Anthony,17-11-22,8:00,17:00
+10005,Romualdez,Alice,17-11-22,8:00,17:00
+10006,Atienza,Rosie ,17-11-22,8:00,17:00
+10007,Farala,Martha,17-11-22,8:00,17:00
+10008,Martinez,Leila,17-11-22,8:00,17:00
+10009,San Jose,Allison ,17-11-22,8:00,17:00
+10010,Rosario,Cydney ,17-11-22,8:00,17:00
+10011,Lopez,Josie ,17-11-22,8:00,17:00
+10012,De Leon,Selena ,17-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,17-11-22,8:00,17:00
+10014,Bautista,Mark ,17-11-22,8:00,17:00
+10015,Lazaro,Darlene ,17-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,17-11-22,8:00,17:00
+10017,Santos,Vella ,17-11-22,8:00,17:00
+10018,Del Rosario,Tomas,17-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,17-11-22,8:00,17:00
+10020,Gutierrez,Percival ,17-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,17-11-22,8:00,17:00
+10022,Villegas,Lizeth ,17-11-22,8:00,17:00
+10023,Ramos,Carol ,17-11-22,8:00,17:00
+10024,Maceda,Emelia ,17-11-22,8:00,17:00
+10025,Aguilar,Delia ,17-11-22,8:00,17:00
+10001,Crisostomo,Jose,18-11-22,8:00,17:00
+10002,Mata,Christian,18-11-22,8:00,17:00
+10003,San Jose,Brad ,18-11-22,8:00,17:00
+10004,Salcedo,Anthony,18-11-22,8:00,17:00
+10005,Romualdez,Alice,18-11-22,8:00,17:00
+10006,Atienza,Rosie ,18-11-22,8:00,17:00
+10007,Farala,Martha,18-11-22,8:27,17:00
+10008,Martinez,Leila,18-11-22,8:01,17:00
+10009,San Jose,Allison ,18-11-22,8:05,17:00
+10010,Rosario,Cydney ,18-11-22,8:00,17:00
+10011,Lopez,Josie ,18-11-22,8:00,17:00
+10012,De Leon,Selena ,18-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,18-11-22,8:00,17:00
+10014,Bautista,Mark ,18-11-22,8:00,17:00
+10015,Lazaro,Darlene ,18-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,18-11-22,8:28,17:00
+10017,Santos,Vella ,18-11-22,8:00,17:00
+10018,Del Rosario,Tomas,18-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,18-11-22,8:00,17:00
+10020,Gutierrez,Percival ,18-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,18-11-22,8:11,17:00
+10022,Villegas,Lizeth ,18-11-22,8:00,17:00
+10023,Ramos,Carol ,18-11-22,8:00,17:00
+10024,Maceda,Emelia ,18-11-22,8:21,17:00
+10025,Aguilar,Delia ,18-11-22,8:00,17:00
+10001,Crisostomo,Jose,21-11-22,8:00,17:00
+10002,Mata,Christian,21-11-22,8:00,17:00
+10003,San Jose,Brad ,21-11-22,8:00,17:00
+10004,Salcedo,Anthony,21-11-22,8:00,17:00
+10005,Romualdez,Alice,21-11-22,8:00,17:00
+10006,Atienza,Rosie ,21-11-22,8:00,17:00
+10007,Farala,Martha,21-11-22,8:00,17:00
+10008,Martinez,Leila,21-11-22,8:00,17:00
+10009,San Jose,Allison ,21-11-22,8:00,17:00
+10010,Rosario,Cydney ,21-11-22,8:00,17:00
+10011,Lopez,Josie ,21-11-22,8:00,17:00
+10012,De Leon,Selena ,21-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,21-11-22,8:00,17:00
+10014,Bautista,Mark ,21-11-22,8:00,17:00
+10015,Lazaro,Darlene ,21-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,21-11-22,8:00,17:00
+10017,Santos,Vella ,21-11-22,8:00,17:00
+10018,Del Rosario,Tomas,21-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,21-11-22,8:00,17:00
+10020,Gutierrez,Percival ,21-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,21-11-22,8:00,17:00
+10022,Villegas,Lizeth ,21-11-22,8:00,17:00
+10023,Ramos,Carol ,21-11-22,8:00,17:00
+10024,Maceda,Emelia ,21-11-22,8:00,17:00
+10025,Aguilar,Delia ,21-11-22,8:00,17:00
+10001,Crisostomo,Jose,22-11-22,8:00,17:00
+10002,Mata,Christian,22-11-22,8:00,17:00
+10003,San Jose,Brad ,22-11-22,8:00,17:00
+10004,Salcedo,Anthony,22-11-22,8:00,17:00
+10005,Romualdez,Alice,22-11-22,8:15,17:00
+10006,Atienza,Rosie ,22-11-22,8:00,17:00
+10007,Farala,Martha,22-11-22,8:00,17:00
+10008,Martinez,Leila,22-11-22,8:00,17:00
+10009,San Jose,Allison ,22-11-22,8:00,17:00
+10010,Rosario,Cydney ,22-11-22,8:00,17:00
+10011,Lopez,Josie ,22-11-22,10:30,17:00
+10012,De Leon,Selena ,22-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,22-11-22,8:00,17:00
+10014,Bautista,Mark ,22-11-22,8:00,17:00
+10015,Lazaro,Darlene ,22-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,22-11-22,8:00,17:00
+10017,Santos,Vella ,22-11-22,8:00,17:00
+10018,Del Rosario,Tomas,22-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,22-11-22,8:00,17:00
+10020,Gutierrez,Percival ,22-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,22-11-22,13:00,17:00
+10022,Villegas,Lizeth ,22-11-22,8:00,17:00
+10023,Ramos,Carol ,22-11-22,8:00,17:00
+10024,Maceda,Emelia ,22-11-22,8:00,17:00
+10025,Aguilar,Delia ,22-11-22,8:00,17:00
+10001,Crisostomo,Jose,23-11-22,8:00,17:00
+10002,Mata,Christian,23-11-22,8:00,17:00
+10003,San Jose,Brad ,23-11-22,11:30,17:00
+10004,Salcedo,Anthony,23-11-22,8:00,17:00
+10005,Romualdez,Alice,23-11-22,8:00,17:00
+10006,Atienza,Rosie ,23-11-22,8:00,17:00
+10007,Farala,Martha,23-11-22,8:00,17:00
+10008,Martinez,Leila,23-11-22,8:10,17:00
+10009,San Jose,Allison ,23-11-22,8:00,17:00
+10010,Rosario,Cydney ,23-11-22,8:00,17:00
+10011,Lopez,Josie ,23-11-22,8:00,17:00
+10012,De Leon,Selena ,23-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,23-11-22,8:00,17:00
+10014,Bautista,Mark ,23-11-22,8:00,17:00
+10015,Lazaro,Darlene ,23-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,23-11-22,8:00,17:00
+10017,Santos,Vella ,23-11-22,8:05,17:00
+10018,Del Rosario,Tomas,23-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,23-11-22,8:00,17:00
+10020,Gutierrez,Percival ,23-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,23-11-22,8:00,17:00
+10022,Villegas,Lizeth ,23-11-22,8:00,17:00
+10023,Ramos,Carol ,23-11-22,9:00,17:00
+10024,Maceda,Emelia ,23-11-22,8:00,17:00
+10025,Aguilar,Delia ,23-11-22,8:00,17:00
+10001,Crisostomo,Jose,24-11-22,8:00,17:00
+10002,Mata,Christian,24-11-22,8:00,17:00
+10003,San Jose,Brad ,24-11-22,8:00,17:00
+10004,Salcedo,Anthony,24-11-22,8:00,17:00
+10005,Romualdez,Alice,24-11-22,8:00,17:00
+10006,Atienza,Rosie ,24-11-22,8:00,17:00
+10007,Farala,Martha,24-11-22,8:00,17:00
+10008,Martinez,Leila,24-11-22,8:00,17:00
+10009,San Jose,Allison ,24-11-22,8:00,17:00
+10010,Rosario,Cydney ,24-11-22,8:00,17:00
+10011,Lopez,Josie ,24-11-22,8:00,17:00
+10012,De Leon,Selena ,24-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,24-11-22,8:00,17:00
+10014,Bautista,Mark ,24-11-22,8:00,17:00
+10015,Lazaro,Darlene ,24-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,24-11-22,8:00,17:00
+10017,Santos,Vella ,24-11-22,8:00,17:00
+10018,Del Rosario,Tomas,24-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,24-11-22,8:00,17:00
+10020,Gutierrez,Percival ,24-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,24-11-22,8:00,17:00
+10022,Villegas,Lizeth ,24-11-22,8:00,17:00
+10023,Ramos,Carol ,24-11-22,8:00,17:00
+10024,Maceda,Emelia ,24-11-22,8:00,17:00
+10025,Aguilar,Delia ,24-11-22,8:00,17:00
+10001,Crisostomo,Jose,25-11-22,8:00,17:00
+10002,Mata,Christian,25-11-22,8:00,17:00
+10003,San Jose,Brad ,25-11-22,8:00,17:00
+10004,Salcedo,Anthony,25-11-22,8:00,17:00
+10005,Romualdez,Alice,25-11-22,8:00,17:00
+10006,Atienza,Rosie ,25-11-22,8:00,17:00
+10007,Farala,Martha,25-11-22,8:00,17:00
+10008,Martinez,Leila,25-11-22,8:00,17:00
+10009,San Jose,Allison ,25-11-22,8:00,17:00
+10010,Rosario,Cydney ,25-11-22,8:00,17:00
+10011,Lopez,Josie ,25-11-22,8:00,17:00
+10012,De Leon,Selena ,25-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,25-11-22,10:00,17:00
+10014,Bautista,Mark ,25-11-22,10:00,17:00
+10015,Lazaro,Darlene ,25-11-22,10:00,17:00
+10016,Delos Santos,Kolby ,25-11-22,10:00,17:00
+10017,Santos,Vella ,25-11-22,10:00,17:00
+10018,Del Rosario,Tomas,25-11-22,10:00,17:00
+10019,Tolentino,Jacklyn ,25-11-22,10:00,17:00
+10020,Gutierrez,Percival ,25-11-22,10:00,17:00
+10021,Manalaysay,Garfield ,25-11-22,10:00,17:00
+10022,Villegas,Lizeth ,25-11-22,10:00,17:00
+10023,Ramos,Carol ,25-11-22,10:00,17:00
+10024,Maceda,Emelia ,25-11-22,10:00,17:00
+10025,Aguilar,Delia ,25-11-22,10:00,17:00
+10001,Crisostomo,Jose,28-11-22,8:00,17:00
+10002,Mata,Christian,28-11-22,8:00,17:00
+10003,San Jose,Brad ,28-11-22,8:00,17:00
+10004,Salcedo,Anthony,28-11-22,8:00,17:00
+10005,Romualdez,Alice,28-11-22,8:00,17:00
+10006,Atienza,Rosie ,28-11-22,8:00,17:00
+10007,Farala,Martha,28-11-22,8:00,17:00
+10008,Martinez,Leila,28-11-22,8:00,17:00
+10009,San Jose,Allison ,28-11-22,8:00,17:00
+10010,Rosario,Cydney ,28-11-22,8:00,17:00
+10011,Lopez,Josie ,28-11-22,8:00,17:00
+10012,De Leon,Selena ,28-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,28-11-22,8:00,17:00
+10014,Bautista,Mark ,28-11-22,8:00,17:00
+10015,Lazaro,Darlene ,28-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,28-11-22,8:00,17:00
+10017,Santos,Vella ,28-11-22,8:00,17:00
+10018,Del Rosario,Tomas,28-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,28-11-22,8:00,17:00
+10020,Gutierrez,Percival ,28-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,28-11-22,8:00,17:00
+10022,Villegas,Lizeth ,28-11-22,8:00,17:00
+10023,Ramos,Carol ,28-11-22,8:00,17:00
+10024,Maceda,Emelia ,28-11-22,8:00,17:00
+10025,Aguilar,Delia ,28-11-22,8:00,17:00
+10001,Crisostomo,Jose,29-11-22,8:00,17:00
+10002,Mata,Christian,29-11-22,8:00,17:00
+10003,San Jose,Brad ,29-11-22,8:00,17:00
+10004,Salcedo,Anthony,29-11-22,8:00,17:00
+10005,Romualdez,Alice,29-11-22,8:00,17:00
+10006,Atienza,Rosie ,29-11-22,8:00,17:00
+10007,Farala,Martha,29-11-22,8:27,17:00
+10008,Martinez,Leila,29-11-22,8:01,17:00
+10009,San Jose,Allison ,29-11-22,8:05,17:00
+10010,Rosario,Cydney ,29-11-22,8:00,17:00
+10011,Lopez,Josie ,29-11-22,8:00,17:00
+10012,De Leon,Selena ,29-11-22,8:00,17:00
+10013,Romualdez,Fredrick ,29-11-22,8:00,17:00
+10014,Bautista,Mark ,29-11-22,8:00,17:00
+10015,Lazaro,Darlene ,29-11-22,8:00,17:00
+10016,Delos Santos,Kolby ,29-11-22,8:28,17:00
+10017,Santos,Vella ,29-11-22,8:00,17:00
+10018,Del Rosario,Tomas,29-11-22,8:00,17:00
+10019,Tolentino,Jacklyn ,29-11-22,8:00,17:00
+10020,Gutierrez,Percival ,29-11-22,8:00,17:00
+10021,Manalaysay,Garfield ,29-11-22,8:11,17:00
+10022,Villegas,Lizeth ,29-11-22,8:00,17:00
+10023,Ramos,Carol ,29-11-22,8:00,17:00
+10024,Maceda,Emelia ,29-11-22,8:21,17:00
+10025,Aguilar,Delia ,29-11-22,8:00,17:00
+10001,Crisostomo,Jose,30-11-22,0:00,0:00
+10002,Mata,Christian,30-11-22,0:00,0:00
+10003,San Jose,Brad ,30-11-22,0:00,0:00
+10004,Salcedo,Anthony,30-11-22,0:00,0:00
+10005,Romualdez,Alice,30-11-22,0:00,0:00
+10006,Atienza,Rosie ,30-11-22,0:00,0:00
+10007,Farala,Martha,30-11-22,0:00,0:00
+10008,Martinez,Leila,30-11-22,0:00,0:00
+10009,San Jose,Allison ,30-11-22,0:00,0:00
+10010,Rosario,Cydney ,30-11-22,0:00,0:00
+10011,Lopez,Josie ,30-11-22,0:00,0:00
+10012,De Leon,Selena ,30-11-22,0:00,0:00
+10013,Romualdez,Fredrick ,30-11-22,0:00,0:00
+10014,Bautista,Mark ,30-11-22,0:00,0:00
+10015,Lazaro,Darlene ,30-11-22,0:00,0:00
+10016,Delos Santos,Kolby ,30-11-22,0:00,0:00
+10017,Santos,Vella ,30-11-22,0:00,0:00
+10018,Del Rosario,Tomas,30-11-22,0:00,0:00
+10019,Tolentino,Jacklyn ,30-11-22,0:00,0:00
+10020,Gutierrez,Percival ,30-11-22,0:00,0:00
+10021,Manalaysay,Garfield ,30-11-22,0:00,0:00
+10022,Villegas,Lizeth ,30-11-22,0:00,0:00
+10023,Ramos,Carol ,30-11-22,0:00,0:00
+10024,Maceda,Emelia ,30-11-22,0:00,0:00
+10025,Aguilar,Delia ,30-11-22,0:00,0:00
+10001,Crisostomo,Jose,1-12-2022,8:00,17:00
+10002,Mata,Christian,1-12-2022,8:00,17:00
+10003,San Jose,Brad ,1-12-2022,8:00,17:00
+10004,Salcedo,Anthony,1-12-2022,8:00,17:00
+10005,Romualdez,Alice,1-12-2022,8:15,17:00
+10006,Atienza,Rosie ,1-12-2022,8:00,17:00
+10007,Farala,Martha,1-12-2022,8:00,17:00
+10008,Martinez,Leila,1-12-2022,8:00,17:00
+10009,San Jose,Allison ,1-12-2022,8:00,17:00
+10010,Rosario,Cydney ,1-12-2022,8:00,17:00
+10011,Lopez,Josie ,1-12-2022,10:30,17:00
+10012,De Leon,Selena ,1-12-2022,8:00,17:00
+10013,Romualdez,Fredrick ,1-12-2022,8:00,17:00
+10014,Bautista,Mark ,1-12-2022,8:00,17:00
+10015,Lazaro,Darlene ,1-12-2022,8:00,17:00
+10016,Delos Santos,Kolby ,1-12-2022,8:00,17:00
+10017,Santos,Vella ,1-12-2022,8:00,17:00
+10018,Del Rosario,Tomas,1-12-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,1-12-2022,8:00,17:00
+10020,Gutierrez,Percival ,1-12-2022,8:00,17:00
+10021,Manalaysay,Garfield ,1-12-2022,13:00,17:00
+10022,Villegas,Lizeth ,1-12-2022,8:00,17:00
+10023,Ramos,Carol ,1-12-2022,8:00,17:00
+10024,Maceda,Emelia ,1-12-2022,8:00,17:00
+10025,Aguilar,Delia ,1-12-2022,8:00,17:00
+10001,Crisostomo,Jose,2-12-2022,8:00,17:00
+10002,Mata,Christian,2-12-2022,8:00,17:00
+10003,San Jose,Brad ,2-12-2022,11:30,17:00
+10004,Salcedo,Anthony,2-12-2022,8:00,17:00
+10005,Romualdez,Alice,2-12-2022,8:00,17:00
+10006,Atienza,Rosie ,2-12-2022,8:00,17:00
+10007,Farala,Martha,2-12-2022,8:00,17:00
+10008,Martinez,Leila,2-12-2022,8:10,17:00
+10009,San Jose,Allison ,2-12-2022,8:00,17:00
+10010,Rosario,Cydney ,2-12-2022,8:00,17:00
+10011,Lopez,Josie ,2-12-2022,8:00,17:00
+10012,De Leon,Selena ,2-12-2022,8:00,17:00
+10013,Romualdez,Fredrick ,2-12-2022,8:00,17:00
+10014,Bautista,Mark ,2-12-2022,8:00,17:00
+10015,Lazaro,Darlene ,2-12-2022,8:00,17:00
+10016,Delos Santos,Kolby ,2-12-2022,8:00,17:00
+10017,Santos,Vella ,2-12-2022,8:05,17:00
+10018,Del Rosario,Tomas,2-12-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,2-12-2022,8:00,17:00
+10020,Gutierrez,Percival ,2-12-2022,8:00,17:00
+10021,Manalaysay,Garfield ,2-12-2022,8:00,17:00
+10022,Villegas,Lizeth ,2-12-2022,8:00,17:00
+10023,Ramos,Carol ,2-12-2022,9:00,17:00
+10024,Maceda,Emelia ,2-12-2022,8:00,17:00
+10025,Aguilar,Delia ,2-12-2022,8:00,17:00
+10001,Crisostomo,Jose,5-12-2022,8:00,17:00
+10002,Mata,Christian,5-12-2022,8:00,17:00
+10003,San Jose,Brad ,5-12-2022,8:00,17:00
+10004,Salcedo,Anthony,5-12-2022,8:00,17:00
+10005,Romualdez,Alice,5-12-2022,8:00,17:00
+10006,Atienza,Rosie ,5-12-2022,8:00,17:00
+10007,Farala,Martha,5-12-2022,8:00,17:00
+10008,Martinez,Leila,5-12-2022,8:00,17:00
+10009,San Jose,Allison ,5-12-2022,8:00,17:00
+10010,Rosario,Cydney ,5-12-2022,8:00,17:00
+10011,Lopez,Josie ,5-12-2022,8:00,17:00
+10012,De Leon,Selena ,5-12-2022,8:00,17:00
+10013,Romualdez,Fredrick ,5-12-2022,8:00,17:00
+10014,Bautista,Mark ,5-12-2022,8:00,17:00
+10015,Lazaro,Darlene ,5-12-2022,8:00,17:00
+10016,Delos Santos,Kolby ,5-12-2022,8:00,17:00
+10017,Santos,Vella ,5-12-2022,8:00,17:00
+10018,Del Rosario,Tomas,5-12-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,5-12-2022,8:00,17:00
+10020,Gutierrez,Percival ,5-12-2022,8:00,17:00
+10021,Manalaysay,Garfield ,5-12-2022,8:00,17:00
+10022,Villegas,Lizeth ,5-12-2022,8:00,17:00
+10023,Ramos,Carol ,5-12-2022,8:00,17:00
+10024,Maceda,Emelia ,5-12-2022,8:00,17:00
+10025,Aguilar,Delia ,5-12-2022,8:00,17:00
+10001,Crisostomo,Jose,6-12-2022,8:00,17:00
+10002,Mata,Christian,6-12-2022,8:00,17:00
+10003,San Jose,Brad ,6-12-2022,8:00,17:00
+10004,Salcedo,Anthony,6-12-2022,8:00,17:00
+10005,Romualdez,Alice,6-12-2022,8:00,17:00
+10006,Atienza,Rosie ,6-12-2022,8:00,17:00
+10007,Farala,Martha,6-12-2022,8:00,17:00
+10008,Martinez,Leila,6-12-2022,8:00,17:00
+10009,San Jose,Allison ,6-12-2022,8:00,17:00
+10010,Rosario,Cydney ,6-12-2022,8:00,17:00
+10011,Lopez,Josie ,6-12-2022,8:00,17:00
+10012,De Leon,Selena ,6-12-2022,8:00,17:00
+10013,Romualdez,Fredrick ,6-12-2022,10:00,17:00
+10014,Bautista,Mark ,6-12-2022,10:00,17:00
+10015,Lazaro,Darlene ,6-12-2022,10:00,17:00
+10016,Delos Santos,Kolby ,6-12-2022,10:00,17:00
+10017,Santos,Vella ,6-12-2022,10:00,17:00
+10018,Del Rosario,Tomas,6-12-2022,10:00,17:00
+10019,Tolentino,Jacklyn ,6-12-2022,10:00,17:00
+10020,Gutierrez,Percival ,6-12-2022,10:00,17:00
+10021,Manalaysay,Garfield ,6-12-2022,10:00,17:00
+10022,Villegas,Lizeth ,6-12-2022,10:00,17:00
+10023,Ramos,Carol ,6-12-2022,10:00,17:00
+10024,Maceda,Emelia ,6-12-2022,10:00,17:00
+10025,Aguilar,Delia ,6-12-2022,10:00,17:00
+10001,Crisostomo,Jose,7-12-2022,8:00,17:00
+10002,Mata,Christian,7-12-2022,8:00,17:00
+10003,San Jose,Brad ,7-12-2022,8:00,17:00
+10004,Salcedo,Anthony,7-12-2022,8:00,17:00
+10005,Romualdez,Alice,7-12-2022,8:00,17:00
+10006,Atienza,Rosie ,7-12-2022,8:00,17:00
+10007,Farala,Martha,7-12-2022,8:00,17:00
+10008,Martinez,Leila,7-12-2022,8:00,17:00
+10009,San Jose,Allison ,7-12-2022,8:00,17:00
+10010,Rosario,Cydney ,7-12-2022,8:00,17:00
+10011,Lopez,Josie ,7-12-2022,8:00,17:00
+10012,De Leon,Selena ,7-12-2022,8:00,17:00
+10013,Romualdez,Fredrick ,7-12-2022,8:00,17:00
+10014,Bautista,Mark ,7-12-2022,8:00,17:00
+10015,Lazaro,Darlene ,7-12-2022,8:00,17:00
+10016,Delos Santos,Kolby ,7-12-2022,8:00,17:00
+10017,Santos,Vella ,7-12-2022,8:00,17:00
+10018,Del Rosario,Tomas,7-12-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,7-12-2022,8:00,17:00
+10020,Gutierrez,Percival ,7-12-2022,8:00,17:00
+10021,Manalaysay,Garfield ,7-12-2022,8:00,17:00
+10022,Villegas,Lizeth ,7-12-2022,8:00,17:00
+10023,Ramos,Carol ,7-12-2022,8:00,17:00
+10024,Maceda,Emelia ,7-12-2022,8:00,17:00
+10025,Aguilar,Delia ,7-12-2022,8:00,17:00
+10001,Crisostomo,Jose,8-12-2022,0:00,0:00
+10002,Mata,Christian,8-12-2022,0:00,0:00
+10003,San Jose,Brad ,8-12-2022,0:00,0:00
+10004,Salcedo,Anthony,8-12-2022,0:00,0:00
+10005,Romualdez,Alice,8-12-2022,0:00,0:00
+10006,Atienza,Rosie ,8-12-2022,0:00,0:00
+10007,Farala,Martha,8-12-2022,0:00,0:00
+10008,Martinez,Leila,8-12-2022,0:00,0:00
+10009,San Jose,Allison ,8-12-2022,0:00,0:00
+10010,Rosario,Cydney ,8-12-2022,0:00,0:00
+10011,Lopez,Josie ,8-12-2022,0:00,0:00
+10012,De Leon,Selena ,8-12-2022,0:00,0:00
+10013,Romualdez,Fredrick ,8-12-2022,0:00,0:00
+10014,Bautista,Mark ,8-12-2022,0:00,0:00
+10015,Lazaro,Darlene ,8-12-2022,0:00,0:00
+10016,Delos Santos,Kolby ,8-12-2022,0:00,0:00
+10017,Santos,Vella ,8-12-2022,0:00,0:00
+10018,Del Rosario,Tomas,8-12-2022,0:00,0:00
+10019,Tolentino,Jacklyn ,8-12-2022,0:00,0:00
+10020,Gutierrez,Percival ,8-12-2022,0:00,0:00
+10021,Manalaysay,Garfield ,8-12-2022,0:00,0:00
+10022,Villegas,Lizeth ,8-12-2022,0:00,0:00
+10023,Ramos,Carol ,8-12-2022,0:00,0:00
+10024,Maceda,Emelia ,8-12-2022,0:00,0:00
+10025,Aguilar,Delia ,8-12-2022,0:00,0:00
+10001,Crisostomo,Jose,9-12-2022,8:00,17:00
+10002,Mata,Christian,9-12-2022,8:00,17:00
+10003,San Jose,Brad ,9-12-2022,8:00,17:00
+10004,Salcedo,Anthony,9-12-2022,8:00,17:00
+10005,Romualdez,Alice,9-12-2022,8:00,17:00
+10006,Atienza,Rosie ,9-12-2022,8:00,17:00
+10007,Farala,Martha,9-12-2022,8:00,17:00
+10008,Martinez,Leila,9-12-2022,8:00,17:00
+10009,San Jose,Allison ,9-12-2022,8:00,17:00
+10010,Rosario,Cydney ,9-12-2022,8:00,17:00
+10011,Lopez,Josie ,9-12-2022,8:00,17:00
+10012,De Leon,Selena ,9-12-2022,8:00,17:00
+10013,Romualdez,Fredrick ,9-12-2022,8:00,17:00
+10014,Bautista,Mark ,9-12-2022,8:00,17:00
+10015,Lazaro,Darlene ,9-12-2022,8:00,17:00
+10016,Delos Santos,Kolby ,9-12-2022,8:00,17:00
+10017,Santos,Vella ,9-12-2022,8:00,17:00
+10018,Del Rosario,Tomas,9-12-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,9-12-2022,8:00,17:00
+10020,Gutierrez,Percival ,9-12-2022,8:00,17:00
+10021,Manalaysay,Garfield ,9-12-2022,8:00,17:00
+10022,Villegas,Lizeth ,9-12-2022,8:00,17:00
+10023,Ramos,Carol ,9-12-2022,8:00,17:00
+10024,Maceda,Emelia ,9-12-2022,8:00,17:00
+10025,Aguilar,Delia ,9-12-2022,8:00,17:00
+10001,Crisostomo,Jose,12-12-2022,8:00,17:00
+10002,Mata,Christian,12-12-2022,8:00,17:00
+10003,San Jose,Brad ,12-12-2022,8:00,17:00
+10004,Salcedo,Anthony,12-12-2022,8:00,17:00
+10005,Romualdez,Alice,12-12-2022,8:15,17:00
+10006,Atienza,Rosie ,12-12-2022,8:00,17:00
+10007,Farala,Martha,12-12-2022,8:00,17:00
+10008,Martinez,Leila,12-12-2022,8:00,17:00
+10009,San Jose,Allison ,12-12-2022,8:00,17:00
+10010,Rosario,Cydney ,12-12-2022,8:00,17:00
+10011,Lopez,Josie ,12-12-2022,10:30,17:00
+10012,De Leon,Selena ,12-12-2022,8:00,17:00
+10013,Romualdez,Fredrick ,12-12-2022,8:00,17:00
+10014,Bautista,Mark ,12-12-2022,8:00,17:00
+10015,Lazaro,Darlene ,12-12-2022,8:00,17:00
+10016,Delos Santos,Kolby ,12-12-2022,8:00,17:00
+10017,Santos,Vella ,12-12-2022,8:00,17:00
+10018,Del Rosario,Tomas,12-12-2022,8:00,17:00
+10019,Tolentino,Jacklyn ,12-12-2022,8:00,17:00
+10020,Gutierrez,Percival ,12-12-2022,8:00,17:00
+10021,Manalaysay,Garfield ,12-12-2022,13:00,17:00
+10022,Villegas,Lizeth ,12-12-2022,8:00,17:00
+10023,Ramos,Carol ,12-12-2022,8:00,17:00
+10024,Maceda,Emelia ,12-12-2022,8:00,17:00
+10025,Aguilar,Delia ,12-12-2022,8:00,17:00
+10001,Crisostomo,Jose,13-12-22,8:00,17:00
+10002,Mata,Christian,13-12-22,8:00,17:00
+10003,San Jose,Brad ,13-12-22,11:30,17:00
+10004,Salcedo,Anthony,13-12-22,8:00,17:00
+10005,Romualdez,Alice,13-12-22,8:00,17:00
+10006,Atienza,Rosie ,13-12-22,8:00,17:00
+10007,Farala,Martha,13-12-22,8:00,17:00
+10008,Martinez,Leila,13-12-22,8:10,17:00
+10009,San Jose,Allison ,13-12-22,8:00,17:00
+10010,Rosario,Cydney ,13-12-22,8:00,17:00
+10011,Lopez,Josie ,13-12-22,8:00,17:00
+10012,De Leon,Selena ,13-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,13-12-22,8:00,17:00
+10014,Bautista,Mark ,13-12-22,8:00,17:00
+10015,Lazaro,Darlene ,13-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,13-12-22,8:00,17:00
+10017,Santos,Vella ,13-12-22,8:05,17:00
+10018,Del Rosario,Tomas,13-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,13-12-22,8:00,17:00
+10020,Gutierrez,Percival ,13-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,13-12-22,8:00,17:00
+10022,Villegas,Lizeth ,13-12-22,8:00,17:00
+10023,Ramos,Carol ,13-12-22,9:00,17:00
+10024,Maceda,Emelia ,13-12-22,8:00,17:00
+10025,Aguilar,Delia ,13-12-22,8:00,17:00
+10001,Crisostomo,Jose,14-12-22,8:00,17:00
+10002,Mata,Christian,14-12-22,8:00,17:00
+10003,San Jose,Brad ,14-12-22,8:00,17:00
+10004,Salcedo,Anthony,14-12-22,8:00,17:00
+10005,Romualdez,Alice,14-12-22,8:00,17:00
+10006,Atienza,Rosie ,14-12-22,8:00,17:00
+10007,Farala,Martha,14-12-22,8:00,17:00
+10008,Martinez,Leila,14-12-22,8:00,17:00
+10009,San Jose,Allison ,14-12-22,8:00,17:00
+10010,Rosario,Cydney ,14-12-22,8:00,17:00
+10011,Lopez,Josie ,14-12-22,8:00,17:00
+10012,De Leon,Selena ,14-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,14-12-22,8:00,17:00
+10014,Bautista,Mark ,14-12-22,8:00,17:00
+10015,Lazaro,Darlene ,14-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,14-12-22,8:00,17:00
+10017,Santos,Vella ,14-12-22,8:00,17:00
+10018,Del Rosario,Tomas,14-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,14-12-22,8:00,17:00
+10020,Gutierrez,Percival ,14-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,14-12-22,8:00,17:00
+10022,Villegas,Lizeth ,14-12-22,8:00,17:00
+10023,Ramos,Carol ,14-12-22,8:00,17:00
+10024,Maceda,Emelia ,14-12-22,8:00,17:00
+10025,Aguilar,Delia ,14-12-22,8:00,17:00
+10001,Crisostomo,Jose,15-12-22,8:00,17:00
+10002,Mata,Christian,15-12-22,0:00,0:00
+10003,San Jose,Brad ,15-12-22,0:00,0:00
+10004,Salcedo,Anthony,15-12-22,0:00,0:00
+10005,Romualdez,Alice,15-12-22,0:00,0:00
+10006,Atienza,Rosie ,15-12-22,0:00,0:00
+10007,Farala,Martha,15-12-22,8:00,17:00
+10008,Martinez,Leila,15-12-22,8:00,17:00
+10009,San Jose,Allison ,15-12-22,8:00,17:00
+10010,Rosario,Cydney ,15-12-22,8:00,17:00
+10011,Lopez,Josie ,15-12-22,8:00,17:00
+10012,De Leon,Selena ,15-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,15-12-22,10:00,17:00
+10014,Bautista,Mark ,15-12-22,10:00,17:00
+10015,Lazaro,Darlene ,15-12-22,10:00,17:00
+10016,Delos Santos,Kolby ,15-12-22,10:00,17:00
+10017,Santos,Vella ,15-12-22,10:00,17:00
+10018,Del Rosario,Tomas,15-12-22,10:00,17:00
+10019,Tolentino,Jacklyn ,15-12-22,10:00,17:00
+10020,Gutierrez,Percival ,15-12-22,10:00,17:00
+10021,Manalaysay,Garfield ,15-12-22,10:00,17:00
+10022,Villegas,Lizeth ,15-12-22,10:00,17:00
+10023,Ramos,Carol ,15-12-22,10:00,17:00
+10024,Maceda,Emelia ,15-12-22,10:00,17:00
+10025,Aguilar,Delia ,15-12-22,10:00,17:00
+10001,Crisostomo,Jose,16-12-22,8:00,17:00
+10002,Mata,Christian,16-12-22,0:00,0:00
+10003,San Jose,Brad ,16-12-22,0:00,0:00
+10004,Salcedo,Anthony,16-12-22,0:00,0:00
+10005,Romualdez,Alice,16-12-22,0:00,0:00
+10006,Atienza,Rosie ,16-12-22,0:00,0:00
+10007,Farala,Martha,16-12-22,8:00,17:00
+10008,Martinez,Leila,16-12-22,8:00,17:00
+10009,San Jose,Allison ,16-12-22,8:00,17:00
+10010,Rosario,Cydney ,16-12-22,8:00,17:00
+10011,Lopez,Josie ,16-12-22,8:00,17:00
+10012,De Leon,Selena ,16-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,16-12-22,8:00,17:00
+10014,Bautista,Mark ,16-12-22,8:00,17:00
+10015,Lazaro,Darlene ,16-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,16-12-22,8:00,17:00
+10017,Santos,Vella ,16-12-22,8:00,17:00
+10018,Del Rosario,Tomas,16-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,16-12-22,8:00,17:00
+10020,Gutierrez,Percival ,16-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,16-12-22,8:00,17:00
+10022,Villegas,Lizeth ,16-12-22,8:00,17:00
+10023,Ramos,Carol ,16-12-22,8:00,17:00
+10024,Maceda,Emelia ,16-12-22,8:00,17:00
+10025,Aguilar,Delia ,16-12-22,8:00,17:00
+10001,Crisostomo,Jose,19-12-22,8:00,17:00
+10002,Mata,Christian,19-12-22,0:00,0:00
+10003,San Jose,Brad ,19-12-22,0:00,0:00
+10004,Salcedo,Anthony,19-12-22,0:00,0:00
+10005,Romualdez,Alice,19-12-22,0:00,0:00
+10006,Atienza,Rosie ,19-12-22,0:00,0:00
+10007,Farala,Martha,19-12-22,8:27,17:00
+10008,Martinez,Leila,19-12-22,8:01,17:00
+10009,San Jose,Allison ,19-12-22,8:05,17:00
+10010,Rosario,Cydney ,19-12-22,8:00,17:00
+10011,Lopez,Josie ,19-12-22,8:00,17:00
+10012,De Leon,Selena ,19-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,19-12-22,8:00,17:00
+10014,Bautista,Mark ,19-12-22,8:00,17:00
+10015,Lazaro,Darlene ,19-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,19-12-22,8:28,17:00
+10017,Santos,Vella ,19-12-22,8:00,17:00
+10018,Del Rosario,Tomas,19-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,19-12-22,8:00,17:00
+10020,Gutierrez,Percival ,19-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,19-12-22,8:11,17:00
+10022,Villegas,Lizeth ,19-12-22,8:00,17:00
+10023,Ramos,Carol ,19-12-22,8:00,17:00
+10024,Maceda,Emelia ,19-12-22,8:21,17:00
+10025,Aguilar,Delia ,19-12-22,8:00,17:00
+10001,Crisostomo,Jose,20-12-22,8:00,17:00
+10002,Mata,Christian,20-12-22,0:00,0:00
+10003,San Jose,Brad ,20-12-22,0:00,0:00
+10004,Salcedo,Anthony,20-12-22,0:00,0:00
+10005,Romualdez,Alice,20-12-22,0:00,0:00
+10006,Atienza,Rosie ,20-12-22,0:00,0:00
+10007,Farala,Martha,20-12-22,8:00,17:00
+10008,Martinez,Leila,20-12-22,8:00,17:00
+10009,San Jose,Allison ,20-12-22,8:00,17:00
+10010,Rosario,Cydney ,20-12-22,8:00,17:00
+10011,Lopez,Josie ,20-12-22,8:00,17:00
+10012,De Leon,Selena ,20-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,20-12-22,8:00,17:00
+10014,Bautista,Mark ,20-12-22,8:00,17:00
+10015,Lazaro,Darlene ,20-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,20-12-22,8:00,17:00
+10017,Santos,Vella ,20-12-22,8:00,17:00
+10018,Del Rosario,Tomas,20-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,20-12-22,8:00,17:00
+10020,Gutierrez,Percival ,20-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,20-12-22,8:00,17:00
+10022,Villegas,Lizeth ,20-12-22,8:00,17:00
+10023,Ramos,Carol ,20-12-22,8:00,17:00
+10024,Maceda,Emelia ,20-12-22,8:00,17:00
+10025,Aguilar,Delia ,20-12-22,8:00,17:00
+10001,Crisostomo,Jose,21-12-22,8:00,17:00
+10002,Mata,Christian,21-12-22,0:00,0:00
+10003,San Jose,Brad ,21-12-22,0:00,0:00
+10004,Salcedo,Anthony,21-12-22,0:00,0:00
+10005,Romualdez,Alice,21-12-22,0:00,0:00
+10006,Atienza,Rosie ,21-12-22,0:00,0:00
+10007,Farala,Martha,21-12-22,8:00,17:00
+10008,Martinez,Leila,21-12-22,8:00,17:00
+10009,San Jose,Allison ,21-12-22,8:00,17:00
+10010,Rosario,Cydney ,21-12-22,8:00,17:00
+10011,Lopez,Josie ,21-12-22,10:30,17:00
+10012,De Leon,Selena ,21-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,21-12-22,8:00,17:00
+10014,Bautista,Mark ,21-12-22,8:00,17:00
+10015,Lazaro,Darlene ,21-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,21-12-22,8:00,17:00
+10017,Santos,Vella ,21-12-22,8:00,17:00
+10018,Del Rosario,Tomas,21-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,21-12-22,8:00,17:00
+10020,Gutierrez,Percival ,21-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,21-12-22,13:00,17:00
+10022,Villegas,Lizeth ,21-12-22,8:00,17:00
+10023,Ramos,Carol ,21-12-22,8:00,17:00
+10024,Maceda,Emelia ,21-12-22,8:00,17:00
+10025,Aguilar,Delia ,21-12-22,8:00,17:00
+10001,Crisostomo,Jose,22-12-22,8:00,17:00
+10002,Mata,Christian,22-12-22,0:00,0:00
+10003,San Jose,Brad ,22-12-22,0:00,0:00
+10004,Salcedo,Anthony,22-12-22,0:00,0:00
+10005,Romualdez,Alice,22-12-22,0:00,0:00
+10006,Atienza,Rosie ,22-12-22,0:00,0:00
+10007,Farala,Martha,22-12-22,8:00,17:00
+10008,Martinez,Leila,22-12-22,8:10,17:00
+10009,San Jose,Allison ,22-12-22,8:00,17:00
+10010,Rosario,Cydney ,22-12-22,8:00,17:00
+10011,Lopez,Josie ,22-12-22,8:00,17:00
+10012,De Leon,Selena ,22-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,22-12-22,8:00,17:00
+10014,Bautista,Mark ,22-12-22,8:00,17:00
+10015,Lazaro,Darlene ,22-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,22-12-22,8:00,17:00
+10017,Santos,Vella ,22-12-22,8:05,17:00
+10018,Del Rosario,Tomas,22-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,22-12-22,8:00,17:00
+10020,Gutierrez,Percival ,22-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,22-12-22,8:00,17:00
+10022,Villegas,Lizeth ,22-12-22,8:00,17:00
+10023,Ramos,Carol ,22-12-22,9:00,17:00
+10024,Maceda,Emelia ,22-12-22,8:00,17:00
+10025,Aguilar,Delia ,22-12-22,8:00,17:00
+10001,Crisostomo,Jose,23-12-22,8:00,17:00
+10002,Mata,Christian,23-12-22,0:00,0:00
+10003,San Jose,Brad ,23-12-22,0:00,0:00
+10004,Salcedo,Anthony,23-12-22,0:00,0:00
+10005,Romualdez,Alice,23-12-22,0:00,0:00
+10006,Atienza,Rosie ,23-12-22,0:00,0:00
+10007,Farala,Martha,23-12-22,8:00,17:00
+10008,Martinez,Leila,23-12-22,8:00,17:00
+10009,San Jose,Allison ,23-12-22,8:00,17:00
+10010,Rosario,Cydney ,23-12-22,8:00,17:00
+10011,Lopez,Josie ,23-12-22,8:00,17:00
+10012,De Leon,Selena ,23-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,23-12-22,8:00,17:00
+10014,Bautista,Mark ,23-12-22,8:00,17:00
+10015,Lazaro,Darlene ,23-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,23-12-22,8:00,17:00
+10017,Santos,Vella ,23-12-22,8:00,17:00
+10018,Del Rosario,Tomas,23-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,23-12-22,8:00,17:00
+10020,Gutierrez,Percival ,23-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,23-12-22,8:00,17:00
+10022,Villegas,Lizeth ,23-12-22,8:00,17:00
+10023,Ramos,Carol ,23-12-22,8:00,17:00
+10024,Maceda,Emelia ,23-12-22,8:00,17:00
+10025,Aguilar,Delia ,23-12-22,8:00,17:00
+10001,Crisostomo,Jose,26-12-22,8:00,17:00
+10002,Mata,Christian,26-12-22,0:00,0:00
+10003,San Jose,Brad ,26-12-22,0:00,0:00
+10004,Salcedo,Anthony,26-12-22,0:00,0:00
+10005,Romualdez,Alice,26-12-22,0:00,0:00
+10006,Atienza,Rosie ,26-12-22,0:00,0:00
+10007,Farala,Martha,26-12-22,8:00,17:00
+10008,Martinez,Leila,26-12-22,8:00,17:00
+10009,San Jose,Allison ,26-12-22,8:00,17:00
+10010,Rosario,Cydney ,26-12-22,8:00,17:00
+10011,Lopez,Josie ,26-12-22,8:00,17:00
+10012,De Leon,Selena ,26-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,26-12-22,10:00,17:00
+10014,Bautista,Mark ,26-12-22,10:00,17:00
+10015,Lazaro,Darlene ,26-12-22,10:00,17:00
+10016,Delos Santos,Kolby ,26-12-22,10:00,17:00
+10017,Santos,Vella ,26-12-22,10:00,17:00
+10018,Del Rosario,Tomas,26-12-22,10:00,17:00
+10019,Tolentino,Jacklyn ,26-12-22,10:00,17:00
+10020,Gutierrez,Percival ,26-12-22,10:00,17:00
+10021,Manalaysay,Garfield ,26-12-22,10:00,17:00
+10022,Villegas,Lizeth ,26-12-22,10:00,17:00
+10023,Ramos,Carol ,26-12-22,10:00,17:00
+10024,Maceda,Emelia ,26-12-22,10:00,17:00
+10025,Aguilar,Delia ,26-12-22,10:00,17:00
+10001,Crisostomo,Jose,27-12-22,8:00,17:00
+10002,Mata,Christian,27-12-22,0:00,0:00
+10003,San Jose,Brad ,27-12-22,0:00,0:00
+10004,Salcedo,Anthony,27-12-22,0:00,0:00
+10005,Romualdez,Alice,27-12-22,0:00,0:00
+10006,Atienza,Rosie ,27-12-22,0:00,0:00
+10007,Farala,Martha,27-12-22,8:00,17:00
+10008,Martinez,Leila,27-12-22,8:00,17:00
+10009,San Jose,Allison ,27-12-22,8:00,17:00
+10010,Rosario,Cydney ,27-12-22,8:00,17:00
+10011,Lopez,Josie ,27-12-22,8:00,17:00
+10012,De Leon,Selena ,27-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,27-12-22,8:00,17:00
+10014,Bautista,Mark ,27-12-22,8:00,17:00
+10015,Lazaro,Darlene ,27-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,27-12-22,8:00,17:00
+10017,Santos,Vella ,27-12-22,8:00,17:00
+10018,Del Rosario,Tomas,27-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,27-12-22,8:00,17:00
+10020,Gutierrez,Percival ,27-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,27-12-22,8:00,17:00
+10022,Villegas,Lizeth ,27-12-22,8:00,17:00
+10023,Ramos,Carol ,27-12-22,8:00,17:00
+10024,Maceda,Emelia ,27-12-22,8:00,17:00
+10025,Aguilar,Delia ,27-12-22,8:00,17:00
+10001,Crisostomo,Jose,28-12-22,8:00,17:00
+10002,Mata,Christian,28-12-22,0:00,0:00
+10003,San Jose,Brad ,28-12-22,0:00,0:00
+10004,Salcedo,Anthony,28-12-22,0:00,0:00
+10005,Romualdez,Alice,28-12-22,0:00,0:00
+10006,Atienza,Rosie ,28-12-22,0:00,0:00
+10007,Farala,Martha,28-12-22,8:27,17:00
+10008,Martinez,Leila,28-12-22,8:01,17:00
+10009,San Jose,Allison ,28-12-22,8:05,17:00
+10010,Rosario,Cydney ,28-12-22,8:00,17:00
+10011,Lopez,Josie ,28-12-22,8:00,17:00
+10012,De Leon,Selena ,28-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,28-12-22,8:00,17:00
+10014,Bautista,Mark ,28-12-22,8:00,17:00
+10015,Lazaro,Darlene ,28-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,28-12-22,8:28,17:00
+10017,Santos,Vella ,28-12-22,8:00,17:00
+10018,Del Rosario,Tomas,28-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,28-12-22,8:00,17:00
+10020,Gutierrez,Percival ,28-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,28-12-22,8:11,17:00
+10022,Villegas,Lizeth ,28-12-22,8:00,17:00
+10023,Ramos,Carol ,28-12-22,8:00,17:00
+10024,Maceda,Emelia ,28-12-22,8:21,17:00
+10025,Aguilar,Delia ,28-12-22,8:00,17:00
+10001,Crisostomo,Jose,29-12-22,8:00,17:00
+10002,Mata,Christian,29-12-22,0:00,0:00
+10003,San Jose,Brad ,29-12-22,0:00,0:00
+10004,Salcedo,Anthony,29-12-22,0:00,0:00
+10005,Romualdez,Alice,29-12-22,0:00,0:00
+10006,Atienza,Rosie ,29-12-22,0:00,0:00
+10007,Farala,Martha,29-12-22,8:00,17:00
+10008,Martinez,Leila,29-12-22,8:00,17:00
+10009,San Jose,Allison ,29-12-22,8:00,17:00
+10010,Rosario,Cydney ,29-12-22,8:00,17:00
+10011,Lopez,Josie ,29-12-22,8:00,17:00
+10012,De Leon,Selena ,29-12-22,8:00,17:00
+10013,Romualdez,Fredrick ,29-12-22,8:00,17:00
+10014,Bautista,Mark ,29-12-22,8:00,17:00
+10015,Lazaro,Darlene ,29-12-22,8:00,17:00
+10016,Delos Santos,Kolby ,29-12-22,8:00,17:00
+10017,Santos,Vella ,29-12-22,8:00,17:00
+10018,Del Rosario,Tomas,29-12-22,8:00,17:00
+10019,Tolentino,Jacklyn ,29-12-22,8:00,17:00
+10020,Gutierrez,Percival ,29-12-22,8:00,17:00
+10021,Manalaysay,Garfield ,29-12-22,8:00,17:00
+10022,Villegas,Lizeth ,29-12-22,8:00,17:00
+10023,Ramos,Carol ,29-12-22,8:00,17:00
+10024,Maceda,Emelia ,29-12-22,8:00,17:00
+10025,Aguilar,Delia ,29-12-22,8:00,17:00
+10001,Crisostomo,Jose,30-12-22,0:00,0:00
+10002,Mata,Christian,30-12-22,0:00,0:00
+10003,San Jose,Brad ,30-12-22,0:00,0:00
+10004,Salcedo,Anthony,30-12-22,0:00,0:00
+10005,Romualdez,Alice,30-12-22,0:00,0:00
+10006,Atienza,Rosie ,30-12-22,0:00,0:00
+10007,Farala,Martha,30-12-22,0:00,0:00
+10008,Martinez,Leila,30-12-22,0:00,0:00
+10009,San Jose,Allison ,30-12-22,0:00,0:00
+10010,Rosario,Cydney ,30-12-22,0:00,0:00
+10011,Lopez,Josie ,30-12-22,0:00,0:00
+10012,De Leon,Selena ,30-12-22,0:00,0:00
+10013,Romualdez,Fredrick ,30-12-22,0:00,0:00
+10014,Bautista,Mark ,30-12-22,0:00,0:00
+10015,Lazaro,Darlene ,30-12-22,0:00,0:00
+10016,Delos Santos,Kolby ,30-12-22,0:00,0:00
+10017,Santos,Vella ,30-12-22,0:00,0:00
+10018,Del Rosario,Tomas,30-12-22,0:00,0:00
+10019,Tolentino,Jacklyn ,30-12-22,0:00,0:00
+10020,Gutierrez,Percival ,30-12-22,0:00,0:00
+10021,Manalaysay,Garfield ,30-12-22,0:00,0:00
+10022,Villegas,Lizeth ,30-12-22,0:00,0:00
+10023,Ramos,Carol ,30-12-22,0:00,0:00
+10024,Maceda,Emelia ,30-12-22,0:00,0:00
+10025,Aguilar,Delia ,30-12-22,0:00,0:00
