@@ -17,14 +17,14 @@ public class DataSetCsv {
 
     
 
-    public EmployeeObject[] generate_payroll() throws Exception {
+    public EmployeeObject[] generate_payroll(String employee_no) throws Exception {
         EmployeeObject[] employeeObjects = new EmployeeObject[50];
-        employeeObjects = read_employee_record(employeeObjects);
+        employeeObjects = read_employee_record(employeeObjects, employee_no);
         return employeeObjects;
         // return read_attendance(employeeObjects);
     }
 
-    public EmployeeObject[] read_employee_record(EmployeeObject[] employeeObjects) throws Exception {
+    public EmployeeObject[] read_employee_record(EmployeeObject[] employeeObjects, String employee_no) throws Exception {
         
         try {
             Scanner sc = new Scanner(new File("/Users/gerlenetamayo/payroll-ph/motorph/src/utils/employee_details.csv"));
@@ -155,7 +155,7 @@ public class DataSetCsv {
             }
             sc.close();
              CsvWriter csv_write = new CsvWriter();
-            csv_write.writeDataLineByLine("motorph/csv_payroll/", employeeObjects);
+            csv_write.writeDataLineByLine(employeeObjects, employee_no);
             // System.out.print(props.getProperty("10002"));
         
         } catch(Exception e) {
@@ -164,18 +164,4 @@ public class DataSetCsv {
         }
         return employeeObjects;
     }
-
-    // public EmployeeObject[] read_attendance(EmployeeObject[]  employeeObjects) throws Exception {
-        
-    //     Properties employee_attendance_object = new Properties();
-        
-    //     //setting comma as delimiter pattern
-        
-    //     String[] employee_ids = new String[30];
-        
-        
-    //     return employee_details;
-    //     //closes the scanner
-    // }
-
 }

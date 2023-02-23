@@ -16,3 +16,65 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
+
+## How to run this app?
+
+
+You can Generate payroll CSV using admin and invidual credentials.
+
+### Generate Payroll using admin credential
+
+ You can use ```username: admin``` and ```password: admin``` to generate all csv payroll of each employee.
+ 
+ The generated csv file will be found in ```motorph/csv_payroll/admin/```.
+ 
+ Sample Result:
+ ```
+ Enter Username
+admin
+Enter Password
+admin
+Jose
+Christian
+Brad 
+Anthony
+Alice
+Rosie 
+Martha
+Leila
+Allison 
+Cydney 
+Josie 
+Selena 
+Fredrick 
+Mark 
+Darlene 
+Kolby 
+Vella 
+Tomas
+Jacklyn 
+Percival 
+Garfield 
+Lizeth 
+Carol 
+Emelia 
+Delia 
+Payroll Generated in csv Format
+```
+ 
+ ### Generate Payroll using Individual employee
+ 
+ You can use ```username: employee_no``` and ```password: employee``` to generate csv for specific employee.
+ 
+ Sample Result:
+ ```
+ Enter Username
+10001
+Enter Password
+employee
+Jose
+Payroll Generated in csv Format
+```
