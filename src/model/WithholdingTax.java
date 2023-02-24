@@ -8,7 +8,7 @@ public class WithholdingTax {
     public Properties withholding_tax_range_contribution = new Properties();
     
     public Properties init_prop() throws Exception {
-        Scanner withholding_tax_bracket = new Scanner(new File("/Users/gerlenetamayo/payroll-ph/motorph/src/utils/withholding_tax_bracket.csv"));
+        Scanner withholding_tax_bracket = new Scanner(new File("MO-IT101-Group4//src/utils/withholding_tax_bracket.csv"));
         withholding_tax_bracket.useDelimiter(",");
         withholding_tax_bracket.nextLine();
         String[] withholding_tax = new String[10];

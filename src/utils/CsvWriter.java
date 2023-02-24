@@ -26,11 +26,11 @@ public class CsvWriter {
                     break;
                 }
                 if (employee_no.equals(employeeObject.employee_no)) {
-                    filePath = "motorph/csv_payroll/employee/";
+                    filePath = "MO-IT101-Group4/csv_payroll/employee/";
                     generate_csv(filePath, employeeObject, employee_no);
                     break;
                 } else if(employee_no.equals("admin")) {
-                    filePath = "motorph/csv_payroll/admin/";
+                    filePath = "MO-IT101-Group4/csv_payroll/admin/";
                     generate_csv(filePath, employeeObject, employee_no);
                 }
             }

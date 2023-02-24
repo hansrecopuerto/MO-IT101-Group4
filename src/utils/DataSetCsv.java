@@ -27,7 +27,7 @@ public class DataSetCsv {
     public EmployeeObject[] read_employee_record(EmployeeObject[] employeeObjects, String employee_no) throws Exception {
         
         try {
-            Scanner sc = new Scanner(new File("/Users/gerlenetamayo/payroll-ph/motorph/src/utils/employee_details.csv"));
+            Scanner sc = new Scanner(new File("MO-IT101-Group4/src/utils/employee_details.csv"));
             Integer index = 0;
             sc.useDelimiter(",");
             sc.nextLine();
@@ -48,7 +48,7 @@ public class DataSetCsv {
                     employeeObjects[index].first_name = employee_records[2];
                     employeeObjects[index].birthdate = employee_records[3];
                     
-                    Scanner sc_attance_record = new Scanner(new File("/Users/gerlenetamayo/payroll-ph/motorph/src/utils/attendance_record.csv"));
+                    Scanner sc_attance_record = new Scanner(new File("MO-IT101-Group4/src/utils/attendance_record.csv"));
                     int month = 8;
                     int day = 5;
 

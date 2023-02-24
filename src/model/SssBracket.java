@@ -9,7 +9,7 @@ public class SssBracket {
     public Properties sss_range_contribution = new Properties();
     
     public Properties init_prop() throws Exception {
-        Scanner sss_object = new Scanner(new File("/Users/gerlenetamayo/payroll-ph/motorph/src/utils/sss_bracket.csv"));
+        Scanner sss_object = new Scanner(new File("MO-IT101-Group4//src/utils/sss_bracket.csv"));
         sss_object.useDelimiter(",");
         sss_object.nextLine();
         String[] sss_bracket = new String[10];
